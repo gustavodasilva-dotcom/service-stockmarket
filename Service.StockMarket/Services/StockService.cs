@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Linq;
+using System.Threading;
 using System.Configuration;
 using System.Collections.Generic;
 using Service.StockMarket.Repositories;
@@ -10,6 +11,8 @@ namespace Service.StockMarket.Services
 {
     public class StockService
     {
+        private int RequestCount { get; set; }
+
         private readonly LogService _logService;
 
         private readonly RESTRepository _restRepository;
@@ -48,7 +51,7 @@ namespace Service.StockMarket.Services
                             else
                                 _logService.Log($"It wasn't found a company profile for the symbol {stock.Symbol} at the API.");
 
-                            // TODO: Implement timer to wait 2 minutes after each request.
+                            WaitPerRequest();
                         }
                         else
                             _logService.Log($"There's already a company profile registered for the symbol {stock.Symbol}.");
@@ -105,7 +108,7 @@ namespace Service.StockMarket.Services
             {
                 #region SQL
 
-                query = @"SELECT * FROM Symbols (NOLOCK) WHERE Active = 1 AND Deleted = 0;";
+                query = @"SELECT * FROM Symbols (NOLOCK) WHERE Active = 1 AND Deleted = 0 AND HasCompanyProfile = 0;";
 
                 #endregion
 
@@ -214,6 +217,8 @@ namespace Service.StockMarket.Services
                     companyProfile.Weburl = response.weburl;
 
                     InsertCompanyProfile(companyProfile);
+
+                    UpdateHasCompanyProfile(companyProfile.SymbolID);
                 }
                 else
                 {
@@ -229,6 +234,8 @@ namespace Service.StockMarket.Services
         private void InsertCompanyProfile(CompanyProfileEntity companyProfile)
         {
             var query = string.Empty;
+
+            _logService.Log($"Inserting company profile for the SymbolID {companyProfile.SymbolID}.");
 
             try
             {
@@ -270,6 +277,43 @@ namespace Service.StockMarket.Services
             {
                 _logService.Log($"O seguinte erro ocorreu: {e.Message}");
                 _logService.Log($"Query: {query}");
+            }
+        }
+
+        private void UpdateHasCompanyProfile(int symbolID)
+        {
+            var query = string.Empty;
+
+            _logService.Log($"Updating HasCompanyProfile for the SymbolID {symbolID}.");
+
+            try
+            {
+                #region SQL
+
+                query = $@"UPDATE Symbols SET HasCompanyProfile = 1 WHERE ID = {symbolID};";
+
+                #endregion
+
+                _databaseRepository.Execute(query);
+            }
+            catch (Exception e)
+            {
+                _logService.Log($"O seguinte erro ocorreu: {e.Message}");
+                _logService.Log($"Query: {query}");
+            }
+        }
+
+        private void WaitPerRequest()
+        {
+            RequestCount += 1;
+
+            if (RequestCount == int.Parse(ConfigurationManager.AppSettings["countPerRequest"]))
+            {
+                _logService.Log($"Waiting {int.Parse(ConfigurationManager.AppSettings["intervelPerRequest"])} for the next amount of requests.");
+
+                Thread.Sleep(int.Parse(ConfigurationManager.AppSettings["intervelPerRequest"]));
+
+                RequestCount = 0;
             }
         }
     }

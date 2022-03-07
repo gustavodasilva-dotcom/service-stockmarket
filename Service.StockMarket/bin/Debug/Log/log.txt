@@ -28678,3 +28678,1432 @@
 06/03/2022 23:33:46 - Accessing endpoint for the company profileof the stock IERNF.
 06/03/2022 23:33:46 - Validating data for symbol IERNF.
 06/03/2022 23:33:46 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 10:46:15 - Accessing endpoint for the company profileof the stock IERNF.
+07/03/2022 10:46:25 - Validating data for symbol IERNF.
+07/03/2022 10:46:25 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 10:47:09 - Accessing endpoint for the company profileof the stock IERNF.
+07/03/2022 10:47:14 - Validating data for symbol IERNF.
+07/03/2022 10:47:15 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 10:47:32 - There's already a company profile registered for the symbol HDII.
+07/03/2022 10:47:35 - There's already a company profile registered for the symbol CPFH.
+07/03/2022 10:47:49 - Accessing endpoint for the company profileof the stock TBSAW.
+07/03/2022 10:47:52 - Validating data for symbol TBSAW.
+07/03/2022 10:47:52 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 10:50:49 - Accessing endpoint for the company profileof the stock IERNF.
+07/03/2022 10:50:53 - Validating data for symbol IERNF.
+07/03/2022 10:50:53 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 10:53:28 - There's already a company profile registered for the symbol HDII.
+07/03/2022 10:53:28 - There's already a company profile registered for the symbol CPFH.
+07/03/2022 10:53:29 - Accessing endpoint for the company profileof the stock TBSAW.
+07/03/2022 10:53:30 - Validating data for symbol TBSAW.
+07/03/2022 10:53:30 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 10:55:32 - There's already a company profile registered for the symbol SYTA.
+07/03/2022 10:55:32 - There's already a company profile registered for the symbol GIW.
+07/03/2022 10:55:52 - Accessing endpoint for the company profileof the stock HDGE.
+07/03/2022 10:55:53 - Validating data for symbol HDGE.
+07/03/2022 10:55:53 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 11:02:30 - Accessing endpoint for the company profileof the stock IERNF.
+07/03/2022 11:02:33 - Validating data for symbol IERNF.
+07/03/2022 11:02:33 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 11:02:34 - There's already a company profile registered for the symbol HDII.
+07/03/2022 11:02:34 - There's already a company profile registered for the symbol CPFH.
+07/03/2022 11:02:34 - Accessing endpoint for the company profileof the stock TBSAW.
+07/03/2022 11:02:34 - Validating data for symbol TBSAW.
+07/03/2022 11:02:38 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 11:02:39 - There's already a company profile registered for the symbol SYTA.
+07/03/2022 11:02:39 - There's already a company profile registered for the symbol GIW.
+07/03/2022 11:02:39 - Accessing endpoint for the company profileof the stock HDGE.
+07/03/2022 11:02:39 - Validating data for symbol HDGE.
+07/03/2022 11:02:39 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 11:05:14 - There's already a company profile registered for the symbol KUKYF.
+07/03/2022 11:05:14 - There's already a company profile registered for the symbol LMEFF.
+07/03/2022 11:05:14 - There's already a company profile registered for the symbol SNOTF.
+07/03/2022 11:05:14 - There's already a company profile registered for the symbol HOJI.
+07/03/2022 11:05:14 - There's already a company profile registered for the symbol NDSN.
+07/03/2022 11:05:14 - There's already a company profile registered for the symbol ACHV.
+07/03/2022 11:05:14 - There's already a company profile registered for the symbol GENPF.
+07/03/2022 11:05:14 - Accessing endpoint for the company profileof the stock FLUD.
+07/03/2022 11:05:14 - Validating data for symbol FLUD.
+07/03/2022 11:05:14 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 11:05:14 - There's already a company profile registered for the symbol NIPOF.
+07/03/2022 11:05:15 - There's already a company profile registered for the symbol VLVCY.
+07/03/2022 11:05:15 - There's already a company profile registered for the symbol GDPHF.
+07/03/2022 11:05:15 - There's already a company profile registered for the symbol JJTFF.
+07/03/2022 11:05:15 - Accessing endpoint for the company profileof the stock QTOC.
+07/03/2022 11:05:15 - Validating data for symbol QTOC.
+07/03/2022 11:05:15 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 11:05:15 - There's already a company profile registered for the symbol MLYBY.
+07/03/2022 11:05:15 - There's already a company profile registered for the symbol NRGT.
+07/03/2022 11:05:15 - There's already a company profile registered for the symbol MEDXF.
+07/03/2022 11:05:15 - There's already a company profile registered for the symbol SUNL.
+07/03/2022 11:05:15 - There's already a company profile registered for the symbol KNBWF.
+07/03/2022 11:05:15 - There's already a company profile registered for the symbol POPRF.
+07/03/2022 11:05:15 - There's already a company profile registered for the symbol UGHL.
+07/03/2022 11:05:15 - There's already a company profile registered for the symbol ASGTF.
+07/03/2022 11:05:15 - Accessing endpoint for the company profileof the stock VMGAW.
+07/03/2022 11:05:15 - Validating data for symbol VMGAW.
+07/03/2022 11:05:16 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 11:07:28 - There's already a company profile registered for the symbol NBIAY.
+07/03/2022 11:07:28 - There's already a company profile registered for the symbol NGOOL.
+07/03/2022 11:07:28 - There's already a company profile registered for the symbol KBSR.
+07/03/2022 11:07:28 - There's already a company profile registered for the symbol ASFX.
+07/03/2022 11:07:28 - There's already a company profile registered for the symbol EMNC.
+07/03/2022 11:07:28 - There's already a company profile registered for the symbol CCTC.
+07/03/2022 11:07:28 - There's already a company profile registered for the symbol APAAF.
+07/03/2022 11:07:28 - There's already a company profile registered for the symbol HMTGF.
+07/03/2022 11:07:29 - There's already a company profile registered for the symbol AGBA.
+07/03/2022 11:07:29 - There's already a company profile registered for the symbol NCTKY.
+07/03/2022 11:07:30 - There's already a company profile registered for the symbol MSRTD.
+07/03/2022 11:07:30 - There's already a company profile registered for the symbol ANIX.
+07/03/2022 11:07:30 - There's already a company profile registered for the symbol RICOF.
+07/03/2022 11:07:30 - There's already a company profile registered for the symbol VRCDF.
+07/03/2022 11:07:30 - There's already a company profile registered for the symbol IIIIU.
+07/03/2022 11:07:30 - Accessing endpoint for the company profileof the stock BAC.PRM.
+07/03/2022 11:07:31 - Validating data for symbol BAC.PRM.
+07/03/2022 11:07:31 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 11:07:31 - There's already a company profile registered for the symbol NBRI.
+07/03/2022 11:07:31 - There's already a company profile registered for the symbol EEENF.
+07/03/2022 11:07:31 - There's already a company profile registered for the symbol JTBK.
+07/03/2022 11:07:31 - There's already a company profile registered for the symbol LVZPF.
+07/03/2022 11:07:31 - Accessing endpoint for the company profileof the stock SPYG.
+07/03/2022 11:07:31 - Validating data for symbol SPYG.
+07/03/2022 11:07:32 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 11:07:32 - There's already a company profile registered for the symbol RETO.
+07/03/2022 11:07:32 - There's already a company profile registered for the symbol VLNSF.
+07/03/2022 11:07:32 - Accessing endpoint for the company profileof the stock DYYXF.
+07/03/2022 11:07:32 - Validating data for symbol DYYXF.
+07/03/2022 11:07:32 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 11:10:14 - There's already a company profile registered for the symbol FRAF.
+07/03/2022 11:10:14 - There's already a company profile registered for the symbol SGCFF.
+07/03/2022 11:10:14 - There's already a company profile registered for the symbol PUGE.
+07/03/2022 11:10:14 - There's already a company profile registered for the symbol PIPR.
+07/03/2022 11:10:14 - Accessing endpoint for the company profileof the stock MMLG.
+07/03/2022 11:10:15 - Validating data for symbol MMLG.
+07/03/2022 11:10:15 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 11:10:15 - Accessing endpoint for the company profileof the stock VMOT.
+07/03/2022 11:10:15 - Validating data for symbol VMOT.
+07/03/2022 11:10:15 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 11:10:15 - There's already a company profile registered for the symbol RCPIQ.
+07/03/2022 11:10:15 - There's already a company profile registered for the symbol RVLGF.
+07/03/2022 11:10:15 - There's already a company profile registered for the symbol GDEN.
+07/03/2022 11:10:15 - There's already a company profile registered for the symbol RDEIY.
+07/03/2022 11:10:15 - There's already a company profile registered for the symbol SEER.
+07/03/2022 11:10:15 - There's already a company profile registered for the symbol PHMMF.
+07/03/2022 11:10:15 - There's already a company profile registered for the symbol STAEF.
+07/03/2022 11:10:15 - There's already a company profile registered for the symbol IMRN.
+07/03/2022 11:10:15 - There's already a company profile registered for the symbol SPSAF.
+07/03/2022 11:10:15 - There's already a company profile registered for the symbol EBS.
+07/03/2022 11:10:15 - There's already a company profile registered for the symbol ACQR.
+07/03/2022 11:10:15 - There's already a company profile registered for the symbol KARE.
+07/03/2022 11:10:15 - Accessing endpoint for the company profileof the stock ATEST.
+07/03/2022 11:10:16 - Validating data for symbol ATEST.
+07/03/2022 11:10:16 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 11:12:41 - There's already a company profile registered for the symbol NIUWF.
+07/03/2022 11:12:41 - There's already a company profile registered for the symbol PTAIF.
+07/03/2022 11:12:41 - There's already a company profile registered for the symbol RUSMF.
+07/03/2022 11:12:41 - There's already a company profile registered for the symbol LAND.
+07/03/2022 11:12:41 - There's already a company profile registered for the symbol BLKB.
+07/03/2022 11:12:41 - There's already a company profile registered for the symbol MCFUF.
+07/03/2022 11:12:41 - There's already a company profile registered for the symbol PYCR.
+07/03/2022 11:12:41 - There's already a company profile registered for the symbol MNKKQ.
+07/03/2022 11:12:41 - There's already a company profile registered for the symbol KNEOF.
+07/03/2022 11:12:41 - Accessing endpoint for the company profileof the stock SDIV.
+07/03/2022 11:12:42 - Validating data for symbol SDIV.
+07/03/2022 11:12:42 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 11:12:42 - There's already a company profile registered for the symbol DLCR.
+07/03/2022 11:12:42 - There's already a company profile registered for the symbol NAZ.
+07/03/2022 11:12:42 - There's already a company profile registered for the symbol WDMSF.
+07/03/2022 11:12:42 - There's already a company profile registered for the symbol DILAU.
+07/03/2022 11:12:42 - There's already a company profile registered for the symbol CGNSF.
+07/03/2022 11:12:42 - There's already a company profile registered for the symbol NIPPF.
+07/03/2022 11:12:42 - There's already a company profile registered for the symbol CGMLF.
+07/03/2022 11:12:42 - There's already a company profile registered for the symbol GVLMF.
+07/03/2022 11:12:42 - There's already a company profile registered for the symbol HTCTF.
+07/03/2022 11:12:42 - There's already a company profile registered for the symbol PTAUY.
+07/03/2022 11:12:42 - There's already a company profile registered for the symbol RDY.
+07/03/2022 11:12:42 - There's already a company profile registered for the symbol COUTF.
+07/03/2022 11:12:42 - There's already a company profile registered for the symbol SRLY.
+07/03/2022 11:12:42 - There's already a company profile registered for the symbol TCI.
+07/03/2022 11:12:42 - There's already a company profile registered for the symbol FETM.
+07/03/2022 11:12:42 - There's already a company profile registered for the symbol BOXL.
+07/03/2022 11:12:42 - There's already a company profile registered for the symbol OLNK.
+07/03/2022 11:12:42 - There's already a company profile registered for the symbol FFLO.
+07/03/2022 11:12:42 - There's already a company profile registered for the symbol IPOD.
+07/03/2022 11:12:42 - There's already a company profile registered for the symbol PRTDF.
+07/03/2022 11:12:42 - There's already a company profile registered for the symbol RGGI.
+07/03/2022 11:12:42 - Accessing endpoint for the company profileof the stock SGSSF.
+07/03/2022 11:12:42 - Validating data for symbol SGSSF.
+07/03/2022 11:12:42 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 11:12:42 - There's already a company profile registered for the symbol ICTEF.
+07/03/2022 11:12:42 - There's already a company profile registered for the symbol INTO.
+07/03/2022 11:12:42 - There's already a company profile registered for the symbol KIRK.
+07/03/2022 11:12:42 - There's already a company profile registered for the symbol EMHLF.
+07/03/2022 11:12:42 - Accessing endpoint for the company profileof the stock UBND.
+07/03/2022 11:12:42 - Validating data for symbol UBND.
+07/03/2022 11:12:42 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 11:14:59 - There's already a company profile registered for the symbol VAXX.
+07/03/2022 11:14:59 - There's already a company profile registered for the symbol NSHBY.
+07/03/2022 11:14:59 - There's already a company profile registered for the symbol ADRZY.
+07/03/2022 11:14:59 - There's already a company profile registered for the symbol AFCL.
+07/03/2022 11:14:59 - There's already a company profile registered for the symbol EEYMF.
+07/03/2022 11:14:59 - There's already a company profile registered for the symbol FUPBY.
+07/03/2022 11:14:59 - There's already a company profile registered for the symbol ALSA.
+07/03/2022 11:14:59 - There's already a company profile registered for the symbol MIUFY.
+07/03/2022 11:14:59 - There's already a company profile registered for the symbol REFHF.
+07/03/2022 11:14:59 - There's already a company profile registered for the symbol MMM.
+07/03/2022 11:14:59 - There's already a company profile registered for the symbol FORG.
+07/03/2022 11:14:59 - There's already a company profile registered for the symbol SKYAU.
+07/03/2022 11:14:59 - There's already a company profile registered for the symbol GNUS.
+07/03/2022 11:14:59 - There's already a company profile registered for the symbol VSTM.
+07/03/2022 11:14:59 - There's already a company profile registered for the symbol CHTR.
+07/03/2022 11:14:59 - There's already a company profile registered for the symbol GAMCU.
+07/03/2022 11:14:59 - There's already a company profile registered for the symbol SEE.
+07/03/2022 11:14:59 - Accessing endpoint for the company profileof the stock LIBYW.
+07/03/2022 11:15:00 - Validating data for symbol LIBYW.
+07/03/2022 11:15:00 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 11:15:00 - There's already a company profile registered for the symbol INVI.
+07/03/2022 11:15:00 - There's already a company profile registered for the symbol BRSF.
+07/03/2022 11:15:00 - There's already a company profile registered for the symbol ZIJMY.
+07/03/2022 11:15:00 - There's already a company profile registered for the symbol BOTJ.
+07/03/2022 11:15:00 - Accessing endpoint for the company profileof the stock BRF.
+07/03/2022 11:15:00 - Validating data for symbol BRF.
+07/03/2022 11:15:00 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 11:15:00 - There's already a company profile registered for the symbol AROC.
+07/03/2022 11:15:00 - Accessing endpoint for the company profileof the stock KXINW.
+07/03/2022 11:15:00 - Validating data for symbol KXINW.
+07/03/2022 11:15:01 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 11:17:17 - Accessing endpoint for the company profileof the stock BCBHF.
+07/03/2022 11:17:17 - Validating data for symbol BCBHF.
+07/03/2022 11:17:17 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 11:17:17 - There's already a company profile registered for the symbol SLGD.
+07/03/2022 11:17:17 - There's already a company profile registered for the symbol MEYYY.
+07/03/2022 11:17:17 - There's already a company profile registered for the symbol SARDY.
+07/03/2022 11:17:17 - Accessing endpoint for the company profileof the stock ITQRW.
+07/03/2022 11:17:17 - Validating data for symbol ITQRW.
+07/03/2022 11:17:17 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 11:17:17 - There's already a company profile registered for the symbol SWAV.
+07/03/2022 11:17:17 - There's already a company profile registered for the symbol NSYC.
+07/03/2022 11:17:17 - There's already a company profile registered for the symbol SHECY.
+07/03/2022 11:17:17 - Accessing endpoint for the company profileof the stock EXTDF.
+07/03/2022 11:17:17 - Validating data for symbol EXTDF.
+07/03/2022 11:17:17 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 11:19:26 - Accessing endpoint for the company profileof the stock AADR.
+07/03/2022 11:19:26 - Validating data for symbol AADR.
+07/03/2022 11:19:26 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 11:19:26 - There's already a company profile registered for the symbol TBABF.
+07/03/2022 11:19:26 - Accessing endpoint for the company profileof the stock FDD.
+07/03/2022 11:19:26 - Validating data for symbol FDD.
+07/03/2022 11:19:26 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 11:19:26 - Accessing endpoint for the company profileof the stock USMC.
+07/03/2022 11:19:27 - Validating data for symbol USMC.
+07/03/2022 11:19:27 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 11:21:30 - There's already a company profile registered for the symbol TCLRY.
+07/03/2022 11:21:30 - There's already a company profile registered for the symbol BOSSY.
+07/03/2022 11:21:30 - There's already a company profile registered for the symbol SSREY.
+07/03/2022 11:21:30 - There's already a company profile registered for the symbol HAIPF.
+07/03/2022 11:21:30 - There's already a company profile registered for the symbol GUNGF.
+07/03/2022 11:21:30 - There's already a company profile registered for the symbol NDLS.
+07/03/2022 11:21:30 - There's already a company profile registered for the symbol TLS.
+07/03/2022 11:21:30 - There's already a company profile registered for the symbol TFACF.
+07/03/2022 11:21:30 - There's already a company profile registered for the symbol KSBI.
+07/03/2022 11:21:30 - There's already a company profile registered for the symbol NTGL.
+07/03/2022 11:21:30 - There's already a company profile registered for the symbol HWAUF.
+07/03/2022 11:21:30 - There's already a company profile registered for the symbol GMYOY.
+07/03/2022 11:21:30 - There's already a company profile registered for the symbol PEAR.
+07/03/2022 11:21:30 - Accessing endpoint for the company profileof the stock VEGA.
+07/03/2022 11:21:30 - Validating data for symbol VEGA.
+07/03/2022 11:21:30 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 11:21:30 - There's already a company profile registered for the symbol RMCF.
+07/03/2022 11:21:30 - There's already a company profile registered for the symbol SLAM.
+07/03/2022 11:21:30 - There's already a company profile registered for the symbol ALHC.
+07/03/2022 11:21:30 - There's already a company profile registered for the symbol FGPPF.
+07/03/2022 11:21:30 - There's already a company profile registered for the symbol MBLMF.
+07/03/2022 11:21:30 - There's already a company profile registered for the symbol GMAB.
+07/03/2022 11:21:30 - There's already a company profile registered for the symbol TTAPF.
+07/03/2022 11:21:30 - Accessing endpoint for the company profileof the stock BPACW.
+07/03/2022 11:21:31 - Validating data for symbol BPACW.
+07/03/2022 11:21:31 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 11:21:31 - There's already a company profile registered for the symbol PKTBF.
+07/03/2022 11:21:31 - There's already a company profile registered for the symbol WXIBF.
+07/03/2022 11:21:31 - Accessing endpoint for the company profileof the stock NANR.
+07/03/2022 11:21:31 - Validating data for symbol NANR.
+07/03/2022 11:21:31 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 11:23:34 - There's already a company profile registered for the symbol SPSO.
+07/03/2022 11:23:34 - There's already a company profile registered for the symbol PTOCU.
+07/03/2022 11:23:34 - There's already a company profile registered for the symbol SLCH.
+07/03/2022 11:23:34 - Accessing endpoint for the company profileof the stock IVOL.
+07/03/2022 11:23:35 - Validating data for symbol IVOL.
+07/03/2022 11:23:35 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 11:23:35 - There's already a company profile registered for the symbol ANAS.
+07/03/2022 11:23:35 - There's already a company profile registered for the symbol PLDIF.
+07/03/2022 11:23:35 - Accessing endpoint for the company profileof the stock KBUY.
+07/03/2022 11:23:35 - Validating data for symbol KBUY.
+07/03/2022 11:23:35 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 11:23:35 - There's already a company profile registered for the symbol TAISF.
+07/03/2022 11:23:35 - Accessing endpoint for the company profileof the stock ISEM.
+07/03/2022 11:23:35 - Validating data for symbol ISEM.
+07/03/2022 11:23:35 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 11:25:39 - There's already a company profile registered for the symbol AZZ.
+07/03/2022 11:25:39 - There's already a company profile registered for the symbol MMAT.
+07/03/2022 11:25:39 - There's already a company profile registered for the symbol ROLLP.
+07/03/2022 11:25:39 - Accessing endpoint for the company profileof the stock ACWI.
+07/03/2022 11:25:40 - Validating data for symbol ACWI.
+07/03/2022 11:25:40 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 11:25:40 - There's already a company profile registered for the symbol PHXHF.
+07/03/2022 11:25:40 - There's already a company profile registered for the symbol PIHG.
+07/03/2022 11:25:40 - Accessing endpoint for the company profileof the stock LIDRW.
+07/03/2022 11:25:40 - Validating data for symbol LIDRW.
+07/03/2022 11:25:40 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 11:25:40 - There's already a company profile registered for the symbol SMURF.
+07/03/2022 11:25:40 - Accessing endpoint for the company profileof the stock BSJO.
+07/03/2022 11:25:40 - Validating data for symbol BSJO.
+07/03/2022 11:25:40 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 11:27:52 - There's already a company profile registered for the symbol WTTR.
+07/03/2022 11:27:52 - There's already a company profile registered for the symbol PANW.
+07/03/2022 11:27:52 - There's already a company profile registered for the symbol CLPXY.
+07/03/2022 11:27:52 - There's already a company profile registered for the symbol RMTN.
+07/03/2022 11:27:52 - There's already a company profile registered for the symbol RYOTF.
+07/03/2022 11:27:52 - There's already a company profile registered for the symbol PCN.
+07/03/2022 11:27:52 - There's already a company profile registered for the symbol VLTA.
+07/03/2022 11:27:52 - There's already a company profile registered for the symbol DUKB.
+07/03/2022 11:27:52 - Accessing endpoint for the company profileof the stock INVZ.
+07/03/2022 11:27:52 - Validating data for symbol INVZ.
+07/03/2022 11:27:52 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 11:27:52 - There's already a company profile registered for the symbol NKWFF.
+07/03/2022 11:27:52 - Accessing endpoint for the company profileof the stock ATIP.WS.
+07/03/2022 11:27:53 - Validating data for symbol ATIP.WS.
+07/03/2022 11:27:53 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 11:27:53 - There's already a company profile registered for the symbol EQ.
+07/03/2022 11:27:53 - There's already a company profile registered for the symbol CSTPF.
+07/03/2022 11:27:53 - There's already a company profile registered for the symbol MFH.
+07/03/2022 11:27:53 - There's already a company profile registered for the symbol BELFA.
+07/03/2022 11:27:53 - There's already a company profile registered for the symbol HCPHF.
+07/03/2022 11:27:53 - Accessing endpoint for the company profileof the stock CIM.PRC.
+07/03/2022 11:27:53 - Validating data for symbol CIM.PRC.
+07/03/2022 11:27:53 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 11:29:58 - There's already a company profile registered for the symbol NSBK.
+07/03/2022 11:29:58 - Accessing endpoint for the company profileof the stock JIREF.
+07/03/2022 11:29:59 - Validating data for symbol JIREF.
+07/03/2022 11:29:59 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 11:29:59 - There's already a company profile registered for the symbol AAP.
+07/03/2022 11:29:59 - There's already a company profile registered for the symbol UTI.
+07/03/2022 11:29:59 - There's already a company profile registered for the symbol CYSM.
+07/03/2022 11:29:59 - There's already a company profile registered for the symbol AQUEF.
+07/03/2022 11:29:59 - There's already a company profile registered for the symbol WHTGF.
+07/03/2022 11:29:59 - There's already a company profile registered for the symbol KMLXF.
+07/03/2022 11:29:59 - There's already a company profile registered for the symbol VYGVF.
+07/03/2022 11:29:59 - Accessing endpoint for the company profileof the stock PMFXF.
+07/03/2022 11:29:59 - Validating data for symbol PMFXF.
+07/03/2022 11:29:59 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 11:29:59 - There's already a company profile registered for the symbol ATSPU.
+07/03/2022 11:29:59 - There's already a company profile registered for the symbol CSAIF.
+07/03/2022 11:29:59 - Accessing endpoint for the company profileof the stock OSTRW.
+07/03/2022 11:29:59 - Validating data for symbol OSTRW.
+07/03/2022 11:29:59 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 11:32:02 - There's already a company profile registered for the symbol SCVX.
+07/03/2022 11:32:02 - There's already a company profile registered for the symbol GWYT.
+07/03/2022 11:32:02 - There's already a company profile registered for the symbol TCLHF.
+07/03/2022 11:32:02 - There's already a company profile registered for the symbol IPGGF.
+07/03/2022 11:32:02 - Accessing endpoint for the company profileof the stock CNLTL.
+07/03/2022 11:32:02 - Validating data for symbol CNLTL.
+07/03/2022 11:32:02 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 11:32:02 - There's already a company profile registered for the symbol LSPRU.
+07/03/2022 11:32:02 - There's already a company profile registered for the symbol RPT.
+07/03/2022 11:32:02 - There's already a company profile registered for the symbol DOUG.
+07/03/2022 11:32:02 - Accessing endpoint for the company profileof the stock OWL.WS.
+07/03/2022 11:32:03 - Validating data for symbol OWL.WS.
+07/03/2022 11:32:03 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 11:32:03 - Accessing endpoint for the company profileof the stock XDQQ.
+07/03/2022 11:32:03 - Validating data for symbol XDQQ.
+07/03/2022 11:32:03 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 11:34:44 - There's already a company profile registered for the symbol OCDDY.
+07/03/2022 11:34:44 - There's already a company profile registered for the symbol TKOMF.
+07/03/2022 11:34:44 - There's already a company profile registered for the symbol AU.
+07/03/2022 11:34:44 - There's already a company profile registered for the symbol ZBH.
+07/03/2022 11:34:44 - There's already a company profile registered for the symbol HINOY.
+07/03/2022 11:34:44 - There's already a company profile registered for the symbol NMMC.
+07/03/2022 11:34:44 - There's already a company profile registered for the symbol SNFRF.
+07/03/2022 11:34:44 - There's already a company profile registered for the symbol PSAG.
+07/03/2022 11:34:44 - There's already a company profile registered for the symbol CGEI.
+07/03/2022 11:34:44 - There's already a company profile registered for the symbol QNST.
+07/03/2022 11:34:44 - There's already a company profile registered for the symbol BWC.
+07/03/2022 11:34:44 - There's already a company profile registered for the symbol PMVC.U.
+07/03/2022 11:34:44 - There's already a company profile registered for the symbol RCII.
+07/03/2022 11:34:44 - There's already a company profile registered for the symbol GAQ.U.
+07/03/2022 11:34:44 - Accessing endpoint for the company profileof the stock ET.PRC.
+07/03/2022 11:34:45 - Validating data for symbol ET.PRC.
+07/03/2022 11:34:45 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 11:34:45 - There's already a company profile registered for the symbol EXPI.
+07/03/2022 11:34:45 - There's already a company profile registered for the symbol AQSZF.
+07/03/2022 11:34:45 - There's already a company profile registered for the symbol RNRTY.
+07/03/2022 11:34:45 - There's already a company profile registered for the symbol VBHI.
+07/03/2022 11:34:45 - There's already a company profile registered for the symbol KKOYY.
+07/03/2022 11:34:45 - There's already a company profile registered for the symbol WQGA.
+07/03/2022 11:34:45 - There's already a company profile registered for the symbol EGBB.
+07/03/2022 11:34:45 - Accessing endpoint for the company profileof the stock BBIN.
+07/03/2022 11:34:45 - Validating data for symbol BBIN.
+07/03/2022 11:34:45 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 11:34:45 - There's already a company profile registered for the symbol XCRT.
+07/03/2022 11:34:45 - There's already a company profile registered for the symbol ABGOF.
+07/03/2022 11:34:45 - There's already a company profile registered for the symbol RGUS.
+07/03/2022 11:34:45 - There's already a company profile registered for the symbol OSI.
+07/03/2022 11:34:45 - There's already a company profile registered for the symbol CLAQR.
+07/03/2022 11:34:45 - There's already a company profile registered for the symbol ASGOF.
+07/03/2022 11:34:45 - There's already a company profile registered for the symbol RTX.
+07/03/2022 11:34:45 - There's already a company profile registered for the symbol ADMG.
+07/03/2022 11:34:45 - There's already a company profile registered for the symbol Y.
+07/03/2022 11:34:45 - There's already a company profile registered for the symbol CRMZ.
+07/03/2022 11:34:45 - Accessing endpoint for the company profileof the stock JO.
+07/03/2022 11:34:45 - Validating data for symbol JO.
+07/03/2022 11:34:45 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 11:36:45 - There's already a company profile registered for the symbol OLB.
+07/03/2022 11:36:45 - There's already a company profile registered for the symbol INGVF.
+07/03/2022 11:36:45 - There's already a company profile registered for the symbol TBMIF.
+07/03/2022 11:36:45 - There's already a company profile registered for the symbol MMRTY.
+07/03/2022 11:36:45 - There's already a company profile registered for the symbol PIHLF.
+07/03/2022 11:36:45 - There's already a company profile registered for the symbol ESBK.
+07/03/2022 11:36:45 - There's already a company profile registered for the symbol BROPF.
+07/03/2022 11:36:45 - There's already a company profile registered for the symbol SSTRF.
+07/03/2022 11:36:45 - There's already a company profile registered for the symbol DRNK.
+07/03/2022 11:36:45 - There's already a company profile registered for the symbol SSLLF.
+07/03/2022 11:36:45 - There's already a company profile registered for the symbol TPBTF.
+07/03/2022 11:36:45 - Accessing endpoint for the company profileof the stock CHKEL.
+07/03/2022 11:36:46 - Validating data for symbol CHKEL.
+07/03/2022 11:36:46 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 11:36:46 - There's already a company profile registered for the symbol JNPR.
+07/03/2022 11:36:46 - There's already a company profile registered for the symbol GEHDY.
+07/03/2022 11:36:46 - Accessing endpoint for the company profileof the stock BRIVW.
+07/03/2022 11:36:46 - Validating data for symbol BRIVW.
+07/03/2022 11:36:46 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 11:36:46 - There's already a company profile registered for the symbol JACJF.
+07/03/2022 11:36:46 - There's already a company profile registered for the symbol BDGR.
+07/03/2022 11:36:46 - There's already a company profile registered for the symbol AEY.
+07/03/2022 11:36:46 - Accessing endpoint for the company profileof the stock SCHP.
+07/03/2022 11:36:46 - Validating data for symbol SCHP.
+07/03/2022 11:36:46 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 11:38:46 - There's already a company profile registered for the symbol CHMP.
+07/03/2022 11:38:46 - There's already a company profile registered for the symbol RHRYF.
+07/03/2022 11:38:46 - There's already a company profile registered for the symbol MFGI.
+07/03/2022 11:38:46 - There's already a company profile registered for the symbol DDD.
+07/03/2022 11:38:46 - There's already a company profile registered for the symbol PATLF.
+07/03/2022 11:38:46 - There's already a company profile registered for the symbol SHNL.
+07/03/2022 11:38:46 - There's already a company profile registered for the symbol VIGL.
+07/03/2022 11:38:46 - There's already a company profile registered for the symbol SFIIF.
+07/03/2022 11:38:46 - There's already a company profile registered for the symbol SCMAU.
+07/03/2022 11:38:46 - There's already a company profile registered for the symbol URAL.
+07/03/2022 11:38:46 - There's already a company profile registered for the symbol NFNT.U.
+07/03/2022 11:38:46 - There's already a company profile registered for the symbol IAUGF.
+07/03/2022 11:38:46 - There's already a company profile registered for the symbol EXMXF.
+07/03/2022 11:38:46 - Accessing endpoint for the company profileof the stock XAR.
+07/03/2022 11:38:47 - Validating data for symbol XAR.
+07/03/2022 11:38:47 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 11:38:47 - Accessing endpoint for the company profileof the stock LBAY.
+07/03/2022 11:38:47 - Validating data for symbol LBAY.
+07/03/2022 11:38:47 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 11:38:47 - There's already a company profile registered for the symbol BONXF.
+07/03/2022 11:38:47 - There's already a company profile registered for the symbol PRTR.
+07/03/2022 11:38:47 - There's already a company profile registered for the symbol NOFCF.
+07/03/2022 11:38:47 - Accessing endpoint for the company profileof the stock SYBF.
+07/03/2022 11:38:47 - Validating data for symbol SYBF.
+07/03/2022 11:38:47 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 11:40:47 - There's already a company profile registered for the symbol CAJ.
+07/03/2022 11:40:47 - There's already a company profile registered for the symbol SYHLF.
+07/03/2022 11:40:47 - There's already a company profile registered for the symbol RKHNF.
+07/03/2022 11:40:47 - There's already a company profile registered for the symbol AREC.
+07/03/2022 11:40:47 - There's already a company profile registered for the symbol SDVI.
+07/03/2022 11:40:47 - Accessing endpoint for the company profileof the stock SPHB.
+07/03/2022 11:40:48 - Validating data for symbol SPHB.
+07/03/2022 11:40:48 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 11:40:48 - There's already a company profile registered for the symbol YAYO.
+07/03/2022 11:40:48 - There's already a company profile registered for the symbol MSI.
+07/03/2022 11:40:48 - Accessing endpoint for the company profileof the stock VFIN.
+07/03/2022 11:40:48 - Validating data for symbol VFIN.
+07/03/2022 11:40:48 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 11:40:48 - There's already a company profile registered for the symbol PFSMF.
+07/03/2022 11:40:48 - There's already a company profile registered for the symbol TOWN.
+07/03/2022 11:40:48 - There's already a company profile registered for the symbol NNOCF.
+07/03/2022 11:40:48 - There's already a company profile registered for the symbol LQAVF.
+07/03/2022 11:40:48 - Accessing endpoint for the company profileof the stock PNOV.
+07/03/2022 11:40:48 - Validating data for symbol PNOV.
+07/03/2022 11:40:48 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 11:42:48 - There's already a company profile registered for the symbol CWNOF.
+07/03/2022 11:42:48 - Accessing endpoint for the company profileof the stock EMBD.
+07/03/2022 11:42:49 - Validating data for symbol EMBD.
+07/03/2022 11:42:49 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 11:42:49 - Accessing endpoint for the company profileof the stock NTRBW.
+07/03/2022 11:42:49 - Validating data for symbol NTRBW.
+07/03/2022 11:42:49 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 11:42:49 - There's already a company profile registered for the symbol OLMIY.
+07/03/2022 11:42:49 - There's already a company profile registered for the symbol T.
+07/03/2022 11:42:49 - There's already a company profile registered for the symbol CINSF.
+07/03/2022 11:42:49 - There's already a company profile registered for the symbol SOHL.
+07/03/2022 11:42:49 - There's already a company profile registered for the symbol USCS.
+07/03/2022 11:42:49 - There's already a company profile registered for the symbol IIM.
+07/03/2022 11:42:49 - There's already a company profile registered for the symbol FUSN.
+07/03/2022 11:42:49 - There's already a company profile registered for the symbol PSLKF.
+07/03/2022 11:42:49 - There's already a company profile registered for the symbol JMACU.
+07/03/2022 11:42:49 - There's already a company profile registered for the symbol CNCC.
+07/03/2022 11:42:49 - There's already a company profile registered for the symbol MKKGY.
+07/03/2022 11:42:49 - There's already a company profile registered for the symbol DGUPF.
+07/03/2022 11:42:49 - Accessing endpoint for the company profileof the stock WTTHF.
+07/03/2022 11:42:49 - Validating data for symbol WTTHF.
+07/03/2022 11:42:49 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 11:44:49 - Accessing endpoint for the company profileof the stock USDU.
+07/03/2022 11:44:50 - Validating data for symbol USDU.
+07/03/2022 11:44:50 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 11:44:50 - There's already a company profile registered for the symbol HAYPY.
+07/03/2022 11:44:50 - There's already a company profile registered for the symbol RLDGF.
+07/03/2022 11:44:50 - There's already a company profile registered for the symbol KAMRF.
+07/03/2022 11:44:50 - Accessing endpoint for the company profileof the stock DBSHF.
+07/03/2022 11:44:50 - Validating data for symbol DBSHF.
+07/03/2022 11:44:50 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 11:44:50 - There's already a company profile registered for the symbol APHP.
+07/03/2022 11:44:50 - Accessing endpoint for the company profileof the stock LARRF.
+07/03/2022 11:44:50 - Validating data for symbol LARRF.
+07/03/2022 11:44:50 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 11:46:50 - There's already a company profile registered for the symbol TLTZY.
+07/03/2022 11:46:50 - There's already a company profile registered for the symbol ZUUS.
+07/03/2022 11:46:50 - There's already a company profile registered for the symbol THEPF.
+07/03/2022 11:46:50 - There's already a company profile registered for the symbol MIRM.
+07/03/2022 11:46:50 - Accessing endpoint for the company profileof the stock IPAY.
+07/03/2022 11:46:50 - Validating data for symbol IPAY.
+07/03/2022 11:46:50 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 11:46:51 - Accessing endpoint for the company profileof the stock SKYH.WS.
+07/03/2022 11:46:51 - Validating data for symbol SKYH.WS.
+07/03/2022 11:46:51 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 11:46:51 - There's already a company profile registered for the symbol SLF.
+07/03/2022 11:46:51 - There's already a company profile registered for the symbol OACB.
+07/03/2022 11:46:51 - There's already a company profile registered for the symbol VKSC.
+07/03/2022 11:46:51 - There's already a company profile registered for the symbol KVMD.
+07/03/2022 11:46:51 - There's already a company profile registered for the symbol MMTMF.
+07/03/2022 11:46:51 - There's already a company profile registered for the symbol SPKTF.
+07/03/2022 11:46:51 - There's already a company profile registered for the symbol LIFE.
+07/03/2022 11:46:51 - There's already a company profile registered for the symbol VABK.
+07/03/2022 11:46:51 - There's already a company profile registered for the symbol TSKFF.
+07/03/2022 11:46:51 - Accessing endpoint for the company profileof the stock HSXUF.
+07/03/2022 11:46:51 - Validating data for symbol HSXUF.
+07/03/2022 11:46:51 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 11:48:51 - There's already a company profile registered for the symbol MEIL.
+07/03/2022 11:48:51 - There's already a company profile registered for the symbol MCO.
+07/03/2022 11:48:51 - There's already a company profile registered for the symbol IFHI.
+07/03/2022 11:48:51 - There's already a company profile registered for the symbol TPX.
+07/03/2022 11:48:51 - Accessing endpoint for the company profileof the stock FTGGF.
+07/03/2022 11:48:51 - Validating data for symbol FTGGF.
+07/03/2022 11:48:51 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 11:48:51 - There's already a company profile registered for the symbol ISMAY.
+07/03/2022 11:48:51 - There's already a company profile registered for the symbol RWFC.
+07/03/2022 11:48:52 - There's already a company profile registered for the symbol GMRMF.
+07/03/2022 11:48:52 - There's already a company profile registered for the symbol URGYF.
+07/03/2022 11:48:52 - There's already a company profile registered for the symbol NXSI.
+07/03/2022 11:48:52 - There's already a company profile registered for the symbol TNBI.
+07/03/2022 11:48:52 - There's already a company profile registered for the symbol KACPF.
+07/03/2022 11:48:52 - Accessing endpoint for the company profileof the stock XLC.
+07/03/2022 11:48:52 - Validating data for symbol XLC.
+07/03/2022 11:48:52 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 11:48:52 - There's already a company profile registered for the symbol RAFI.
+07/03/2022 11:48:52 - Accessing endpoint for the company profileof the stock BSKYW.
+07/03/2022 11:48:52 - Validating data for symbol BSKYW.
+07/03/2022 11:48:52 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 11:50:52 - There's already a company profile registered for the symbol FRDSF.
+07/03/2022 11:50:52 - Accessing endpoint for the company profileof the stock WBS.PRG.
+07/03/2022 11:50:52 - Validating data for symbol WBS.PRG.
+07/03/2022 11:50:52 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 11:50:52 - There's already a company profile registered for the symbol OBAS.
+07/03/2022 11:50:52 - There's already a company profile registered for the symbol JSGRY.
+07/03/2022 11:50:52 - There's already a company profile registered for the symbol PNBK.
+07/03/2022 11:50:52 - There's already a company profile registered for the symbol ASNXF.
+07/03/2022 11:50:52 - There's already a company profile registered for the symbol GNBT.
+07/03/2022 11:50:52 - There's already a company profile registered for the symbol CEBUF.
+07/03/2022 11:50:52 - There's already a company profile registered for the symbol SKBNF.
+07/03/2022 11:50:52 - There's already a company profile registered for the symbol GTNLF.
+07/03/2022 11:50:52 - There's already a company profile registered for the symbol BRLGF.
+07/03/2022 11:50:52 - There's already a company profile registered for the symbol RLYNF.
+07/03/2022 11:50:52 - Accessing endpoint for the company profileof the stock BOCNW.
+07/03/2022 11:50:53 - Validating data for symbol BOCNW.
+07/03/2022 11:50:53 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 11:50:53 - There's already a company profile registered for the symbol OPHLF.
+07/03/2022 11:50:53 - There's already a company profile registered for the symbol PNFP.
+07/03/2022 11:50:53 - Accessing endpoint for the company profileof the stock PTIN.
+07/03/2022 11:50:53 - Validating data for symbol PTIN.
+07/03/2022 11:50:53 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 11:52:53 - There's already a company profile registered for the symbol AEO.
+07/03/2022 11:52:53 - There's already a company profile registered for the symbol SSEBF.
+07/03/2022 11:52:53 - There's already a company profile registered for the symbol BCKIY.
+07/03/2022 11:52:53 - There's already a company profile registered for the symbol NTUR.
+07/03/2022 11:52:53 - There's already a company profile registered for the symbol BWNB.
+07/03/2022 11:52:53 - There's already a company profile registered for the symbol ALSSF.
+07/03/2022 11:52:53 - There's already a company profile registered for the symbol NEPT.
+07/03/2022 11:52:53 - There's already a company profile registered for the symbol CRLFF.
+07/03/2022 11:52:53 - There's already a company profile registered for the symbol FULO.
+07/03/2022 11:52:53 - Accessing endpoint for the company profileof the stock GRZZ.
+07/03/2022 11:52:53 - Validating data for symbol GRZZ.
+07/03/2022 11:52:53 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 11:52:53 - There's already a company profile registered for the symbol OXUS.
+07/03/2022 11:52:53 - There's already a company profile registered for the symbol NXYAF.
+07/03/2022 11:52:53 - There's already a company profile registered for the symbol GAXY.
+07/03/2022 11:52:53 - There's already a company profile registered for the symbol MTP.
+07/03/2022 11:52:53 - There's already a company profile registered for the symbol PL.
+07/03/2022 11:52:53 - There's already a company profile registered for the symbol HWVI.
+07/03/2022 11:52:53 - There's already a company profile registered for the symbol TPLWF.
+07/03/2022 11:52:54 - There's already a company profile registered for the symbol AUGX.
+07/03/2022 11:52:54 - There's already a company profile registered for the symbol WBRE.
+07/03/2022 11:52:54 - There's already a company profile registered for the symbol SMAGF.
+07/03/2022 11:52:54 - There's already a company profile registered for the symbol AXAHY.
+07/03/2022 11:52:54 - There's already a company profile registered for the symbol SMTC.
+07/03/2022 11:52:54 - There's already a company profile registered for the symbol BNEFF.
+07/03/2022 11:52:54 - There's already a company profile registered for the symbol BRVVF.
+07/03/2022 11:52:54 - There's already a company profile registered for the symbol DIIBF.
+07/03/2022 11:52:54 - Accessing endpoint for the company profileof the stock TNP.PRD.
+07/03/2022 11:52:54 - Validating data for symbol TNP.PRD.
+07/03/2022 11:52:54 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 11:52:54 - Accessing endpoint for the company profileof the stock POST.WI.
+07/03/2022 11:52:54 - Validating data for symbol POST.WI.
+07/03/2022 11:52:54 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 11:54:54 - There's already a company profile registered for the symbol HESV.
+07/03/2022 11:54:54 - There's already a company profile registered for the symbol CMRF.
+07/03/2022 11:54:54 - There's already a company profile registered for the symbol GPMTF.
+07/03/2022 11:54:54 - Accessing endpoint for the company profileof the stock LOPP.
+07/03/2022 11:54:54 - Validating data for symbol LOPP.
+07/03/2022 11:54:54 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 11:54:54 - There's already a company profile registered for the symbol KCDMY.
+07/03/2022 11:54:55 - Accessing endpoint for the company profileof the stock IOO.
+07/03/2022 11:54:55 - Validating data for symbol IOO.
+07/03/2022 11:54:55 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 11:54:55 - There's already a company profile registered for the symbol PUMD.
+07/03/2022 11:54:55 - There's already a company profile registered for the symbol VULMF.
+07/03/2022 11:54:55 - There's already a company profile registered for the symbol PED.
+07/03/2022 11:54:55 - There's already a company profile registered for the symbol TUEM.
+07/03/2022 11:54:55 - There's already a company profile registered for the symbol RNWEY.
+07/03/2022 11:54:55 - There's already a company profile registered for the symbol TOST.
+07/03/2022 11:54:55 - There's already a company profile registered for the symbol CICHY.
+07/03/2022 11:54:55 - There's already a company profile registered for the symbol TLDE.
+07/03/2022 11:54:55 - There's already a company profile registered for the symbol TKOBF.
+07/03/2022 11:54:55 - There's already a company profile registered for the symbol VTKLY.
+07/03/2022 11:54:55 - Accessing endpoint for the company profileof the stock IQDY.
+07/03/2022 11:54:55 - Validating data for symbol IQDY.
+07/03/2022 11:54:55 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 11:56:55 - There's already a company profile registered for the symbol SGTX.
+07/03/2022 11:56:55 - There's already a company profile registered for the symbol PLYFF.
+07/03/2022 11:56:55 - There's already a company profile registered for the symbol BLRDF.
+07/03/2022 11:56:55 - There's already a company profile registered for the symbol RCTRF.
+07/03/2022 11:56:55 - Accessing endpoint for the company profileof the stock CROC.
+07/03/2022 11:56:55 - Validating data for symbol CROC.
+07/03/2022 11:56:56 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 11:56:56 - There's already a company profile registered for the symbol DGII.
+07/03/2022 11:56:56 - There's already a company profile registered for the symbol KRRGF.
+07/03/2022 11:56:56 - Accessing endpoint for the company profileof the stock GENI.WS.
+07/03/2022 11:56:56 - Validating data for symbol GENI.WS.
+07/03/2022 11:56:56 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 11:56:56 - There's already a company profile registered for the symbol MMLP.
+07/03/2022 11:56:56 - There's already a company profile registered for the symbol PDEX.
+07/03/2022 11:56:56 - There's already a company profile registered for the symbol PFGTF.
+07/03/2022 11:56:56 - There's already a company profile registered for the symbol WGEE.
+07/03/2022 11:56:56 - There's already a company profile registered for the symbol AIMH.
+07/03/2022 11:56:56 - There's already a company profile registered for the symbol SAVE.
+07/03/2022 11:56:56 - There's already a company profile registered for the symbol UNVOF.
+07/03/2022 11:56:56 - Accessing endpoint for the company profileof the stock ASEA.
+07/03/2022 11:56:56 - Validating data for symbol ASEA.
+07/03/2022 11:56:56 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 11:58:56 - There's already a company profile registered for the symbol NXJ.
+07/03/2022 11:58:56 - There's already a company profile registered for the symbol GTII.
+07/03/2022 11:58:56 - There's already a company profile registered for the symbol USAU.
+07/03/2022 11:58:56 - There's already a company profile registered for the symbol ELLXF.
+07/03/2022 11:58:56 - There's already a company profile registered for the symbol MAXFF.
+07/03/2022 11:58:56 - Accessing endpoint for the company profileof the stock IHRMF.
+07/03/2022 11:58:56 - Validating data for symbol IHRMF.
+07/03/2022 11:58:56 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 11:58:56 - There's already a company profile registered for the symbol AMCIU.
+07/03/2022 11:58:56 - There's already a company profile registered for the symbol PPRTF.
+07/03/2022 11:58:56 - There's already a company profile registered for the symbol OXSQL.
+07/03/2022 11:58:56 - There's already a company profile registered for the symbol CSPI.
+07/03/2022 11:58:56 - Accessing endpoint for the company profileof the stock AFRMF.
+07/03/2022 11:58:57 - Validating data for symbol AFRMF.
+07/03/2022 11:58:57 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 11:58:57 - Accessing endpoint for the company profileof the stock ACWF.
+07/03/2022 11:58:57 - Validating data for symbol ACWF.
+07/03/2022 11:58:57 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 12:00:57 - There's already a company profile registered for the symbol DFHL.
+07/03/2022 12:00:57 - Accessing endpoint for the company profileof the stock BCIM.
+07/03/2022 12:00:57 - Validating data for symbol BCIM.
+07/03/2022 12:00:57 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 12:00:57 - Accessing endpoint for the company profileof the stock IHCNF.
+07/03/2022 12:00:58 - Validating data for symbol IHCNF.
+07/03/2022 12:00:58 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 12:00:58 - Accessing endpoint for the company profileof the stock NMNWF.
+07/03/2022 12:00:58 - Validating data for symbol NMNWF.
+07/03/2022 12:00:58 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 12:02:58 - There's already a company profile registered for the symbol BOCOF.
+07/03/2022 12:02:58 - There's already a company profile registered for the symbol SFTCF.
+07/03/2022 12:02:58 - There's already a company profile registered for the symbol CRTX.
+07/03/2022 12:02:58 - There's already a company profile registered for the symbol ARIZU.
+07/03/2022 12:02:58 - Accessing endpoint for the company profileof the stock IHVPF.
+07/03/2022 12:02:58 - Validating data for symbol IHVPF.
+07/03/2022 12:02:58 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 12:02:58 - Accessing endpoint for the company profileof the stock CELG.RT.
+07/03/2022 12:02:59 - Validating data for symbol CELG.RT.
+07/03/2022 12:02:59 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 12:02:59 - There's already a company profile registered for the symbol DBX.
+07/03/2022 12:02:59 - Accessing endpoint for the company profileof the stock LTSF.
+07/03/2022 12:02:59 - Validating data for symbol LTSF.
+07/03/2022 12:02:59 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 12:04:59 - There's already a company profile registered for the symbol GSEVU.
+07/03/2022 12:04:59 - There's already a company profile registered for the symbol PDD.
+07/03/2022 12:04:59 - There's already a company profile registered for the symbol NRDBY.
+07/03/2022 12:04:59 - There's already a company profile registered for the symbol CTGO.
+07/03/2022 12:04:59 - There's already a company profile registered for the symbol SNWR.
+07/03/2022 12:04:59 - There's already a company profile registered for the symbol BBU.
+07/03/2022 12:04:59 - There's already a company profile registered for the symbol GNL.
+07/03/2022 12:04:59 - Accessing endpoint for the company profileof the stock FLGB.
+07/03/2022 12:04:59 - Validating data for symbol FLGB.
+07/03/2022 12:04:59 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 12:04:59 - Accessing endpoint for the company profileof the stock CFR.PRB.
+07/03/2022 12:05:00 - Validating data for symbol CFR.PRB.
+07/03/2022 12:05:00 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 12:05:00 - There's already a company profile registered for the symbol FTS.
+07/03/2022 12:05:00 - Accessing endpoint for the company profileof the stock SECT.
+07/03/2022 12:05:00 - Validating data for symbol SECT.
+07/03/2022 12:05:00 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 12:07:00 - There's already a company profile registered for the symbol JFIL.
+07/03/2022 12:07:00 - Accessing endpoint for the company profileof the stock IUSZF.
+07/03/2022 12:07:00 - Validating data for symbol IUSZF.
+07/03/2022 12:07:00 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 12:07:00 - There's already a company profile registered for the symbol GEVI.
+07/03/2022 12:07:00 - There's already a company profile registered for the symbol DKDRF.
+07/03/2022 12:07:00 - There's already a company profile registered for the symbol HDST.
+07/03/2022 12:07:00 - There's already a company profile registered for the symbol DRTMF.
+07/03/2022 12:07:00 - There's already a company profile registered for the symbol XXFPL.
+07/03/2022 12:07:00 - There's already a company profile registered for the symbol LOWLF.
+07/03/2022 12:07:00 - There's already a company profile registered for the symbol AEDFF.
+07/03/2022 12:07:00 - Accessing endpoint for the company profileof the stock RELIW.
+07/03/2022 12:07:01 - Validating data for symbol RELIW.
+07/03/2022 12:07:01 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 12:07:01 - Accessing endpoint for the company profileof the stock LRGF.
+07/03/2022 12:07:01 - Validating data for symbol LRGF.
+07/03/2022 12:07:01 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 12:09:01 - There's already a company profile registered for the symbol SMG.
+07/03/2022 12:09:01 - There's already a company profile registered for the symbol ZETA.
+07/03/2022 12:09:01 - There's already a company profile registered for the symbol UMSSF.
+07/03/2022 12:09:01 - There's already a company profile registered for the symbol GEBHF.
+07/03/2022 12:09:01 - There's already a company profile registered for the symbol HVCW.
+07/03/2022 12:09:01 - There's already a company profile registered for the symbol MLCO.
+07/03/2022 12:09:01 - There's already a company profile registered for the symbol IMXI.
+07/03/2022 12:09:01 - Accessing endpoint for the company profileof the stock JPXN.
+07/03/2022 12:09:01 - Validating data for symbol JPXN.
+07/03/2022 12:09:01 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 12:09:01 - There's already a company profile registered for the symbol WOSSF.
+07/03/2022 12:09:01 - There's already a company profile registered for the symbol FNCB.
+07/03/2022 12:09:01 - There's already a company profile registered for the symbol MKOEF.
+07/03/2022 12:09:01 - Accessing endpoint for the company profileof the stock ESUS.
+07/03/2022 12:09:02 - Validating data for symbol ESUS.
+07/03/2022 12:09:02 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 12:09:02 - There's already a company profile registered for the symbol QUTIF.
+07/03/2022 12:09:02 - Accessing endpoint for the company profileof the stock EUCRW.
+07/03/2022 12:09:02 - Validating data for symbol EUCRW.
+07/03/2022 12:09:02 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 12:11:02 - There's already a company profile registered for the symbol IMRA.
+07/03/2022 12:11:02 - There's already a company profile registered for the symbol CARA.
+07/03/2022 12:11:02 - There's already a company profile registered for the symbol IGIFF.
+07/03/2022 12:11:02 - There's already a company profile registered for the symbol PIPP.U.
+07/03/2022 12:11:02 - There's already a company profile registered for the symbol PAAS.
+07/03/2022 12:11:02 - There's already a company profile registered for the symbol MXCHF.
+07/03/2022 12:11:02 - There's already a company profile registered for the symbol TOOD.
+07/03/2022 12:11:02 - Accessing endpoint for the company profileof the stock HTAQ.WS.
+07/03/2022 12:11:03 - Validating data for symbol HTAQ.WS.
+07/03/2022 12:11:03 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 12:11:03 - There's already a company profile registered for the symbol GVCIU.
+07/03/2022 12:11:03 - There's already a company profile registered for the symbol ADBMF.
+07/03/2022 12:11:03 - Accessing endpoint for the company profileof the stock AZBJ.
+07/03/2022 12:11:03 - Validating data for symbol AZBJ.
+07/03/2022 12:11:03 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 12:11:03 - There's already a company profile registered for the symbol QRTEB.
+07/03/2022 12:11:03 - Accessing endpoint for the company profileof the stock TLTE.
+07/03/2022 12:11:03 - Validating data for symbol TLTE.
+07/03/2022 12:11:03 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 12:13:03 - There's already a company profile registered for the symbol ACMC.
+07/03/2022 12:13:03 - Accessing endpoint for the company profileof the stock CAPD.
+07/03/2022 12:13:04 - Validating data for symbol CAPD.
+07/03/2022 12:13:04 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 12:13:04 - There's already a company profile registered for the symbol OSTTF.
+07/03/2022 12:13:04 - There's already a company profile registered for the symbol BKYI.
+07/03/2022 12:13:04 - There's already a company profile registered for the symbol IMTE.
+07/03/2022 12:13:04 - There's already a company profile registered for the symbol IPVA.U.
+07/03/2022 12:13:04 - There's already a company profile registered for the symbol COIHY.
+07/03/2022 12:13:04 - There's already a company profile registered for the symbol CFFEU.
+07/03/2022 12:13:04 - There's already a company profile registered for the symbol INRD.
+07/03/2022 12:13:04 - There's already a company profile registered for the symbol MAJCQ.
+07/03/2022 12:13:04 - Accessing endpoint for the company profileof the stock SPSB.
+07/03/2022 12:13:04 - Validating data for symbol SPSB.
+07/03/2022 12:13:04 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 12:13:04 - There's already a company profile registered for the symbol ASXSF.
+07/03/2022 12:13:04 - There's already a company profile registered for the symbol HYBE.
+07/03/2022 12:13:04 - There's already a company profile registered for the symbol BJCHY.
+07/03/2022 12:13:04 - There's already a company profile registered for the symbol IBER.U.
+07/03/2022 12:13:04 - There's already a company profile registered for the symbol SLNTY.
+07/03/2022 12:13:04 - There's already a company profile registered for the symbol CAWLF.
+07/03/2022 12:13:04 - There's already a company profile registered for the symbol SDWL.
+07/03/2022 12:13:04 - There's already a company profile registered for the symbol ZNNC.
+07/03/2022 12:13:04 - There's already a company profile registered for the symbol DBTX.
+07/03/2022 12:13:04 - There's already a company profile registered for the symbol RADLY.
+07/03/2022 12:13:04 - There's already a company profile registered for the symbol ZNAE.
+07/03/2022 12:13:04 - There's already a company profile registered for the symbol UMHL.
+07/03/2022 12:13:04 - There's already a company profile registered for the symbol WAFD.
+07/03/2022 12:13:04 - There's already a company profile registered for the symbol BLUE.
+07/03/2022 12:13:04 - There's already a company profile registered for the symbol WPCB.
+07/03/2022 12:13:04 - There's already a company profile registered for the symbol IART.
+07/03/2022 12:13:04 - There's already a company profile registered for the symbol AAIGF.
+07/03/2022 12:13:04 - There's already a company profile registered for the symbol DCCPY.
+07/03/2022 12:13:04 - There's already a company profile registered for the symbol ENVX.
+07/03/2022 12:13:04 - There's already a company profile registered for the symbol HGDPF.
+07/03/2022 12:13:04 - There's already a company profile registered for the symbol TUGC.
+07/03/2022 12:13:04 - There's already a company profile registered for the symbol SIGO.
+07/03/2022 12:13:04 - There's already a company profile registered for the symbol RHHVF.
+07/03/2022 12:13:04 - There's already a company profile registered for the symbol WUXAY.
+07/03/2022 12:13:04 - There's already a company profile registered for the symbol RAHGF.
+07/03/2022 12:13:04 - There's already a company profile registered for the symbol PIAIF.
+07/03/2022 12:13:04 - Accessing endpoint for the company profileof the stock UIRAF.
+07/03/2022 12:13:04 - Validating data for symbol UIRAF.
+07/03/2022 12:13:04 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 12:15:04 - There's already a company profile registered for the symbol BMAQU.
+07/03/2022 12:15:04 - There's already a company profile registered for the symbol GOOG.
+07/03/2022 12:15:04 - Accessing endpoint for the company profileof the stock WEIX.
+07/03/2022 12:15:05 - Validating data for symbol WEIX.
+07/03/2022 12:15:05 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 12:15:05 - There's already a company profile registered for the symbol ADLDY.
+07/03/2022 12:15:05 - There's already a company profile registered for the symbol IWAL.
+07/03/2022 12:15:05 - There's already a company profile registered for the symbol ATAKU.
+07/03/2022 12:15:05 - There's already a company profile registered for the symbol VWAGY.
+07/03/2022 12:15:05 - There's already a company profile registered for the symbol SOPK.
+07/03/2022 12:15:05 - There's already a company profile registered for the symbol KGBLF.
+07/03/2022 12:15:05 - There's already a company profile registered for the symbol TBGPF.
+07/03/2022 12:15:05 - There's already a company profile registered for the symbol NGRRF.
+07/03/2022 12:15:05 - There's already a company profile registered for the symbol AURQF.
+07/03/2022 12:15:05 - There's already a company profile registered for the symbol IDAM.
+07/03/2022 12:15:05 - There's already a company profile registered for the symbol IIJIY.
+07/03/2022 12:15:05 - There's already a company profile registered for the symbol DYAI.
+07/03/2022 12:15:05 - There's already a company profile registered for the symbol EYE.
+07/03/2022 12:15:05 - There's already a company profile registered for the symbol APG.
+07/03/2022 12:15:05 - There's already a company profile registered for the symbol BDWBY.
+07/03/2022 12:15:05 - There's already a company profile registered for the symbol HSY.
+07/03/2022 12:15:05 - There's already a company profile registered for the symbol FFIN.
+07/03/2022 12:15:05 - There's already a company profile registered for the symbol QQQFF.
+07/03/2022 12:15:05 - There's already a company profile registered for the symbol EEMMF.
+07/03/2022 12:15:05 - There's already a company profile registered for the symbol RHILF.
+07/03/2022 12:15:05 - There's already a company profile registered for the symbol TIGE.
+07/03/2022 12:15:05 - There's already a company profile registered for the symbol AEL.
+07/03/2022 12:15:05 - There's already a company profile registered for the symbol ECHEY.
+07/03/2022 12:15:05 - There's already a company profile registered for the symbol NWSTF.
+07/03/2022 12:15:05 - There's already a company profile registered for the symbol RPNRF.
+07/03/2022 12:15:05 - Accessing endpoint for the company profileof the stock CWB.
+07/03/2022 12:15:05 - Validating data for symbol CWB.
+07/03/2022 12:15:05 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 12:15:05 - Accessing endpoint for the company profileof the stock SCDL.
+07/03/2022 12:15:05 - Validating data for symbol SCDL.
+07/03/2022 12:15:05 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 12:17:05 - There's already a company profile registered for the symbol LPCUF.
+07/03/2022 12:17:05 - There's already a company profile registered for the symbol SDXOF.
+07/03/2022 12:17:05 - There's already a company profile registered for the symbol TDY.
+07/03/2022 12:17:05 - Accessing endpoint for the company profileof the stock DMFG.
+07/03/2022 12:17:06 - Validating data for symbol DMFG.
+07/03/2022 12:17:17 - Accessing endpoint for the company profileof the stock LSAF.
+07/03/2022 12:17:17 - Validating data for symbol LSAF.
+07/03/2022 12:17:17 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 12:17:17 - Accessing endpoint for the company profileof the stock TECTP.
+07/03/2022 12:17:18 - Validating data for symbol TECTP.
+07/03/2022 12:17:18 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 12:19:18 - Accessing endpoint for the company profileof the stock EXNT.
+07/03/2022 12:19:18 - Validating data for symbol EXNT.
+07/03/2022 12:24:04 - Accessing endpoint for the company profileof the stock CTJHY.
+07/03/2022 12:24:05 - Validating data for symbol CTJHY.
+07/03/2022 12:24:16 - Accessing endpoint for the company profileof the stock TCHH.
+07/03/2022 12:24:16 - Validating data for symbol TCHH.
+07/03/2022 12:26:16 - Accessing endpoint for the company profileof the stock SCOAU.
+07/03/2022 12:26:17 - Validating data for symbol SCOAU.
+07/03/2022 12:26:17 - Accessing endpoint for the company profileof the stock SBUDD.
+07/03/2022 12:26:17 - Validating data for symbol SBUDD.
+07/03/2022 12:26:17 - Accessing endpoint for the company profileof the stock VEGGD.
+07/03/2022 12:26:17 - Validating data for symbol VEGGD.
+07/03/2022 12:28:17 - Accessing endpoint for the company profileof the stock TALK.
+07/03/2022 12:28:18 - Validating data for symbol TALK.
+07/03/2022 12:28:18 - Accessing endpoint for the company profileof the stock SGU.
+07/03/2022 12:28:18 - Validating data for symbol SGU.
+07/03/2022 12:28:18 - Accessing endpoint for the company profileof the stock TLYS.
+07/03/2022 12:28:18 - Validating data for symbol TLYS.
+07/03/2022 12:30:18 - Accessing endpoint for the company profileof the stock SPHEF.
+07/03/2022 12:30:21 - Validating data for symbol SPHEF.
+07/03/2022 12:30:21 - Accessing endpoint for the company profileof the stock IHPSF.
+07/03/2022 12:30:22 - Validating data for symbol IHPSF.
+07/03/2022 12:30:22 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 12:30:22 - Accessing endpoint for the company profileof the stock ACTG.
+07/03/2022 12:30:22 - Validating data for symbol ACTG.
+07/03/2022 12:32:22 - Accessing endpoint for the company profileof the stock KPSGF.
+07/03/2022 12:32:22 - Validating data for symbol KPSGF.
+07/03/2022 12:32:22 - Accessing endpoint for the company profileof the stock CTMX.
+07/03/2022 12:32:22 - Validating data for symbol CTMX.
+07/03/2022 12:32:22 - Accessing endpoint for the company profileof the stock PBUG.
+07/03/2022 12:32:23 - Validating data for symbol PBUG.
+07/03/2022 12:32:23 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 12:34:23 - Accessing endpoint for the company profileof the stock ZTR.
+07/03/2022 12:34:23 - Validating data for symbol ZTR.
+07/03/2022 12:34:23 - Accessing endpoint for the company profileof the stock CCDOF.
+07/03/2022 12:34:23 - Validating data for symbol CCDOF.
+07/03/2022 12:34:23 - Accessing endpoint for the company profileof the stock BPOSY.
+07/03/2022 12:34:24 - Validating data for symbol BPOSY.
+07/03/2022 12:36:24 - Accessing endpoint for the company profileof the stock AIVN.
+07/03/2022 12:36:24 - Validating data for symbol AIVN.
+07/03/2022 12:36:24 - Accessing endpoint for the company profileof the stock SHCC.
+07/03/2022 12:36:24 - Validating data for symbol SHCC.
+07/03/2022 12:36:24 - Accessing endpoint for the company profileof the stock EURN.
+07/03/2022 12:36:24 - Validating data for symbol EURN.
+07/03/2022 12:38:25 - Accessing endpoint for the company profileof the stock ATEK.U.
+07/03/2022 12:38:25 - Validating data for symbol ATEK.U.
+07/03/2022 12:38:25 - Accessing endpoint for the company profileof the stock FGPRB.
+07/03/2022 12:38:25 - Validating data for symbol FGPRB.
+07/03/2022 12:38:25 - Accessing endpoint for the company profileof the stock RODI.
+07/03/2022 12:38:25 - Validating data for symbol RODI.
+07/03/2022 12:40:26 - Accessing endpoint for the company profileof the stock FLOCF.
+07/03/2022 12:40:34 - Validating data for symbol FLOCF.
+07/03/2022 12:40:34 - Accessing endpoint for the company profileof the stock MDPEF.
+07/03/2022 12:40:35 - Validating data for symbol MDPEF.
+07/03/2022 12:40:35 - Accessing endpoint for the company profileof the stock MVVYF.
+07/03/2022 12:40:35 - Validating data for symbol MVVYF.
+07/03/2022 12:42:35 - Accessing endpoint for the company profileof the stock DWIN.
+07/03/2022 12:42:35 - Validating data for symbol DWIN.
+07/03/2022 12:42:35 - Accessing endpoint for the company profileof the stock BDYS.
+07/03/2022 12:42:35 - Validating data for symbol BDYS.
+07/03/2022 12:42:35 - Accessing endpoint for the company profileof the stock GRZZU.
+07/03/2022 12:42:36 - Validating data for symbol GRZZU.
+07/03/2022 13:10:39 - Accessing endpoint for the company profileof the stock IERNF.
+07/03/2022 13:10:41 - Validating data for symbol IERNF.
+07/03/2022 13:10:42 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 13:10:42 - Accessing endpoint for the company profileof the stock TBSAW.
+07/03/2022 13:10:42 - Validating data for symbol TBSAW.
+07/03/2022 13:10:42 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 13:10:42 - Accessing endpoint for the company profileof the stock HDGE.
+07/03/2022 13:10:42 - Validating data for symbol HDGE.
+07/03/2022 13:10:42 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 13:10:42 - Waiting 120000 for the next amount of requests.
+07/03/2022 13:12:42 - Accessing endpoint for the company profileof the stock FLUD.
+07/03/2022 13:12:43 - Validating data for symbol FLUD.
+07/03/2022 13:12:43 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 13:12:43 - Accessing endpoint for the company profileof the stock QTOC.
+07/03/2022 13:12:43 - Validating data for symbol QTOC.
+07/03/2022 13:12:43 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 13:12:43 - Accessing endpoint for the company profileof the stock VMGAW.
+07/03/2022 13:12:43 - Validating data for symbol VMGAW.
+07/03/2022 13:12:43 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 13:12:43 - Waiting 120000 for the next amount of requests.
+07/03/2022 13:14:43 - Accessing endpoint for the company profileof the stock BAC.PRM.
+07/03/2022 13:14:44 - Validating data for symbol BAC.PRM.
+07/03/2022 13:14:45 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 13:14:45 - Accessing endpoint for the company profileof the stock SPYG.
+07/03/2022 13:14:45 - Validating data for symbol SPYG.
+07/03/2022 13:14:45 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 13:14:45 - Accessing endpoint for the company profileof the stock DYYXF.
+07/03/2022 13:14:45 - Validating data for symbol DYYXF.
+07/03/2022 13:14:45 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 13:14:45 - Waiting 120000 for the next amount of requests.
+07/03/2022 13:16:45 - Accessing endpoint for the company profileof the stock MMLG.
+07/03/2022 13:16:46 - Validating data for symbol MMLG.
+07/03/2022 13:16:46 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 13:16:46 - Accessing endpoint for the company profileof the stock VMOT.
+07/03/2022 13:16:46 - Validating data for symbol VMOT.
+07/03/2022 13:16:46 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 13:16:46 - Accessing endpoint for the company profileof the stock ATEST.
+07/03/2022 13:16:46 - Validating data for symbol ATEST.
+07/03/2022 13:16:46 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 13:16:46 - Waiting 120000 for the next amount of requests.
+07/03/2022 13:18:47 - Accessing endpoint for the company profileof the stock SDIV.
+07/03/2022 13:18:47 - Validating data for symbol SDIV.
+07/03/2022 13:18:47 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 13:18:47 - Accessing endpoint for the company profileof the stock SGSSF.
+07/03/2022 13:18:47 - Validating data for symbol SGSSF.
+07/03/2022 13:18:47 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 13:18:47 - Accessing endpoint for the company profileof the stock UBND.
+07/03/2022 13:18:48 - Validating data for symbol UBND.
+07/03/2022 13:18:53 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 13:18:53 - Waiting 120000 for the next amount of requests.
+07/03/2022 13:20:53 - Accessing endpoint for the company profileof the stock LIBYW.
+07/03/2022 13:20:54 - Validating data for symbol LIBYW.
+07/03/2022 13:20:54 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 13:20:54 - Accessing endpoint for the company profileof the stock BRF.
+07/03/2022 13:20:54 - Validating data for symbol BRF.
+07/03/2022 13:20:54 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 13:20:54 - Accessing endpoint for the company profileof the stock KXINW.
+07/03/2022 13:20:54 - Validating data for symbol KXINW.
+07/03/2022 13:20:54 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 13:20:54 - Waiting 120000 for the next amount of requests.
+07/03/2022 13:22:54 - Accessing endpoint for the company profileof the stock BCBHF.
+07/03/2022 13:22:55 - Validating data for symbol BCBHF.
+07/03/2022 13:22:55 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 13:22:55 - Accessing endpoint for the company profileof the stock ITQRW.
+07/03/2022 13:22:55 - Validating data for symbol ITQRW.
+07/03/2022 13:22:55 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 13:22:55 - Accessing endpoint for the company profileof the stock EXTDF.
+07/03/2022 13:22:55 - Validating data for symbol EXTDF.
+07/03/2022 13:22:55 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 13:22:55 - Waiting 120000 for the next amount of requests.
+07/03/2022 13:24:55 - Accessing endpoint for the company profileof the stock AADR.
+07/03/2022 13:24:59 - Validating data for symbol AADR.
+07/03/2022 13:24:59 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 13:24:59 - Accessing endpoint for the company profileof the stock FDD.
+07/03/2022 13:24:59 - Validating data for symbol FDD.
+07/03/2022 13:24:59 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 13:24:59 - Accessing endpoint for the company profileof the stock USMC.
+07/03/2022 13:24:59 - Validating data for symbol USMC.
+07/03/2022 13:24:59 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 13:24:59 - Waiting 120000 for the next amount of requests.
+07/03/2022 13:26:59 - Accessing endpoint for the company profileof the stock VEGA.
+07/03/2022 13:27:00 - Validating data for symbol VEGA.
+07/03/2022 13:27:00 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 13:27:00 - Accessing endpoint for the company profileof the stock BPACW.
+07/03/2022 13:27:00 - Validating data for symbol BPACW.
+07/03/2022 13:27:00 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 13:27:00 - Accessing endpoint for the company profileof the stock NANR.
+07/03/2022 13:27:00 - Validating data for symbol NANR.
+07/03/2022 13:27:00 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 13:27:00 - Waiting 120000 for the next amount of requests.
+07/03/2022 13:29:00 - Accessing endpoint for the company profileof the stock IVOL.
+07/03/2022 13:29:01 - Validating data for symbol IVOL.
+07/03/2022 13:29:01 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 13:29:01 - Accessing endpoint for the company profileof the stock KBUY.
+07/03/2022 13:29:01 - Validating data for symbol KBUY.
+07/03/2022 13:29:01 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 13:29:01 - Accessing endpoint for the company profileof the stock ISEM.
+07/03/2022 13:29:01 - Validating data for symbol ISEM.
+07/03/2022 13:29:02 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 13:29:02 - Waiting 120000 for the next amount of requests.
+07/03/2022 13:31:02 - Accessing endpoint for the company profileof the stock ACWI.
+07/03/2022 13:31:02 - Validating data for symbol ACWI.
+07/03/2022 13:31:03 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 13:31:04 - Accessing endpoint for the company profileof the stock LIDRW.
+07/03/2022 13:31:04 - Validating data for symbol LIDRW.
+07/03/2022 13:31:04 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 13:31:04 - Accessing endpoint for the company profileof the stock BSJO.
+07/03/2022 13:31:04 - Validating data for symbol BSJO.
+07/03/2022 13:31:04 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 13:31:04 - Waiting 120000 for the next amount of requests.
+07/03/2022 13:33:04 - Accessing endpoint for the company profileof the stock INVZ.
+07/03/2022 13:33:05 - Validating data for symbol INVZ.
+07/03/2022 13:33:05 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 13:33:05 - Accessing endpoint for the company profileof the stock ATIP.WS.
+07/03/2022 13:33:05 - Validating data for symbol ATIP.WS.
+07/03/2022 13:33:05 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 13:33:05 - Accessing endpoint for the company profileof the stock CIM.PRC.
+07/03/2022 13:33:05 - Validating data for symbol CIM.PRC.
+07/03/2022 13:33:05 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 13:33:05 - Waiting 120000 for the next amount of requests.
+07/03/2022 13:35:05 - Accessing endpoint for the company profileof the stock JIREF.
+07/03/2022 13:35:05 - Validating data for symbol JIREF.
+07/03/2022 13:35:05 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 13:35:06 - Accessing endpoint for the company profileof the stock PMFXF.
+07/03/2022 13:35:06 - Validating data for symbol PMFXF.
+07/03/2022 13:35:06 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 13:35:06 - Accessing endpoint for the company profileof the stock OSTRW.
+07/03/2022 13:35:06 - Validating data for symbol OSTRW.
+07/03/2022 13:35:06 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 13:35:06 - Waiting 120000 for the next amount of requests.
+07/03/2022 13:37:06 - Accessing endpoint for the company profileof the stock CNLTL.
+07/03/2022 13:37:06 - Validating data for symbol CNLTL.
+07/03/2022 13:37:06 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 13:37:06 - Accessing endpoint for the company profileof the stock OWL.WS.
+07/03/2022 13:37:07 - Validating data for symbol OWL.WS.
+07/03/2022 13:37:07 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 13:37:07 - Accessing endpoint for the company profileof the stock XDQQ.
+07/03/2022 13:37:07 - Validating data for symbol XDQQ.
+07/03/2022 13:37:07 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 13:37:07 - Waiting 120000 for the next amount of requests.
+07/03/2022 13:39:07 - Accessing endpoint for the company profileof the stock ET.PRC.
+07/03/2022 13:39:07 - Validating data for symbol ET.PRC.
+07/03/2022 13:39:07 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 13:39:07 - Accessing endpoint for the company profileof the stock BBIN.
+07/03/2022 13:39:07 - Validating data for symbol BBIN.
+07/03/2022 13:39:07 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 13:39:07 - Accessing endpoint for the company profileof the stock JO.
+07/03/2022 13:39:08 - Validating data for symbol JO.
+07/03/2022 13:39:08 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 13:39:08 - Waiting 120000 for the next amount of requests.
+07/03/2022 13:41:08 - Accessing endpoint for the company profileof the stock CHKEL.
+07/03/2022 13:41:08 - Validating data for symbol CHKEL.
+07/03/2022 13:41:08 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 13:41:08 - Accessing endpoint for the company profileof the stock BRIVW.
+07/03/2022 13:41:08 - Validating data for symbol BRIVW.
+07/03/2022 13:41:08 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 13:41:08 - Accessing endpoint for the company profileof the stock SCHP.
+07/03/2022 13:41:09 - Validating data for symbol SCHP.
+07/03/2022 13:41:09 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 13:41:09 - Waiting 120000 for the next amount of requests.
+07/03/2022 13:43:24 - Accessing endpoint for the company profileof the stock XAR.
+07/03/2022 13:43:25 - Validating data for symbol XAR.
+07/03/2022 13:43:25 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 13:43:25 - Accessing endpoint for the company profileof the stock LBAY.
+07/03/2022 13:43:25 - Validating data for symbol LBAY.
+07/03/2022 13:43:25 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 13:43:25 - Accessing endpoint for the company profileof the stock SYBF.
+07/03/2022 13:43:25 - Validating data for symbol SYBF.
+07/03/2022 13:43:25 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 13:43:25 - Waiting 120000 for the next amount of requests.
+07/03/2022 13:45:25 - Accessing endpoint for the company profileof the stock SPHB.
+07/03/2022 13:45:26 - Validating data for symbol SPHB.
+07/03/2022 13:45:26 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 13:45:26 - Accessing endpoint for the company profileof the stock VFIN.
+07/03/2022 13:45:26 - Validating data for symbol VFIN.
+07/03/2022 13:45:26 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 13:45:26 - Accessing endpoint for the company profileof the stock PNOV.
+07/03/2022 13:45:26 - Validating data for symbol PNOV.
+07/03/2022 13:45:26 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 13:45:26 - Waiting 120000 for the next amount of requests.
+07/03/2022 13:47:26 - Accessing endpoint for the company profileof the stock EMBD.
+07/03/2022 13:47:27 - Validating data for symbol EMBD.
+07/03/2022 13:47:27 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 13:47:27 - Accessing endpoint for the company profileof the stock NTRBW.
+07/03/2022 13:47:27 - Validating data for symbol NTRBW.
+07/03/2022 13:47:27 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 13:47:27 - Accessing endpoint for the company profileof the stock WTTHF.
+07/03/2022 13:47:27 - Validating data for symbol WTTHF.
+07/03/2022 13:47:27 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 13:47:27 - Waiting 120000 for the next amount of requests.
+07/03/2022 13:49:27 - Accessing endpoint for the company profileof the stock USDU.
+07/03/2022 13:49:28 - Validating data for symbol USDU.
+07/03/2022 13:49:28 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 13:49:28 - Accessing endpoint for the company profileof the stock DBSHF.
+07/03/2022 13:49:28 - Validating data for symbol DBSHF.
+07/03/2022 13:49:28 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 13:49:28 - Accessing endpoint for the company profileof the stock LARRF.
+07/03/2022 13:49:28 - Validating data for symbol LARRF.
+07/03/2022 13:49:28 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 13:49:28 - Waiting 120000 for the next amount of requests.
+07/03/2022 13:51:28 - Accessing endpoint for the company profileof the stock IPAY.
+07/03/2022 13:51:29 - Validating data for symbol IPAY.
+07/03/2022 13:51:29 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 13:51:29 - Accessing endpoint for the company profileof the stock SKYH.WS.
+07/03/2022 13:51:29 - Validating data for symbol SKYH.WS.
+07/03/2022 13:51:29 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 13:51:29 - Accessing endpoint for the company profileof the stock HSXUF.
+07/03/2022 13:51:29 - Validating data for symbol HSXUF.
+07/03/2022 13:51:29 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 13:51:29 - Waiting 120000 for the next amount of requests.
+07/03/2022 13:53:29 - Accessing endpoint for the company profileof the stock FTGGF.
+07/03/2022 13:53:29 - Validating data for symbol FTGGF.
+07/03/2022 13:53:29 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 13:53:29 - Accessing endpoint for the company profileof the stock XLC.
+07/03/2022 13:53:30 - Validating data for symbol XLC.
+07/03/2022 13:53:30 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 13:53:30 - Accessing endpoint for the company profileof the stock BSKYW.
+07/03/2022 13:53:30 - Validating data for symbol BSKYW.
+07/03/2022 13:53:30 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 13:53:30 - Waiting 120000 for the next amount of requests.
+07/03/2022 13:55:30 - Accessing endpoint for the company profileof the stock WBS.PRG.
+07/03/2022 13:55:30 - Validating data for symbol WBS.PRG.
+07/03/2022 13:55:30 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 13:55:30 - Accessing endpoint for the company profileof the stock BOCNW.
+07/03/2022 13:55:30 - Validating data for symbol BOCNW.
+07/03/2022 13:55:30 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 13:55:30 - Accessing endpoint for the company profileof the stock PTIN.
+07/03/2022 13:55:31 - Validating data for symbol PTIN.
+07/03/2022 13:55:31 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 13:55:31 - Waiting 120000 for the next amount of requests.
+07/03/2022 13:57:31 - Accessing endpoint for the company profileof the stock GRZZ.
+07/03/2022 13:57:31 - Validating data for symbol GRZZ.
+07/03/2022 13:57:31 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 13:57:31 - Accessing endpoint for the company profileof the stock TNP.PRD.
+07/03/2022 13:57:31 - Validating data for symbol TNP.PRD.
+07/03/2022 13:57:31 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 13:57:31 - Accessing endpoint for the company profileof the stock POST.WI.
+07/03/2022 13:57:32 - Validating data for symbol POST.WI.
+07/03/2022 13:57:32 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 13:57:32 - Waiting 120000 for the next amount of requests.
+07/03/2022 13:59:33 - Accessing endpoint for the company profileof the stock LOPP.
+07/03/2022 13:59:34 - Validating data for symbol LOPP.
+07/03/2022 13:59:34 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 13:59:34 - Accessing endpoint for the company profileof the stock IOO.
+07/03/2022 13:59:34 - Validating data for symbol IOO.
+07/03/2022 13:59:34 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 13:59:34 - Accessing endpoint for the company profileof the stock IQDY.
+07/03/2022 13:59:35 - Validating data for symbol IQDY.
+07/03/2022 13:59:35 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 13:59:35 - Waiting 120000 for the next amount of requests.
+07/03/2022 14:01:35 - Accessing endpoint for the company profileof the stock CROC.
+07/03/2022 14:01:35 - Validating data for symbol CROC.
+07/03/2022 14:01:35 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 14:01:35 - Accessing endpoint for the company profileof the stock GENI.WS.
+07/03/2022 14:01:36 - Validating data for symbol GENI.WS.
+07/03/2022 14:01:36 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 14:01:36 - Accessing endpoint for the company profileof the stock ASEA.
+07/03/2022 14:01:36 - Validating data for symbol ASEA.
+07/03/2022 14:01:36 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 14:01:36 - Waiting 120000 for the next amount of requests.
+07/03/2022 14:03:36 - Accessing endpoint for the company profileof the stock IHRMF.
+07/03/2022 14:03:36 - Validating data for symbol IHRMF.
+07/03/2022 14:03:36 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 14:03:36 - Accessing endpoint for the company profileof the stock AFRMF.
+07/03/2022 14:03:37 - Validating data for symbol AFRMF.
+07/03/2022 14:03:37 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 14:03:37 - Accessing endpoint for the company profileof the stock ACWF.
+07/03/2022 14:03:37 - Validating data for symbol ACWF.
+07/03/2022 14:03:37 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 14:03:37 - Waiting 120000 for the next amount of requests.
+07/03/2022 14:05:37 - Accessing endpoint for the company profileof the stock BCIM.
+07/03/2022 14:05:37 - Validating data for symbol BCIM.
+07/03/2022 14:05:37 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 14:05:37 - Accessing endpoint for the company profileof the stock IHCNF.
+07/03/2022 14:05:38 - Validating data for symbol IHCNF.
+07/03/2022 14:05:38 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 14:05:38 - Accessing endpoint for the company profileof the stock NMNWF.
+07/03/2022 14:05:38 - Validating data for symbol NMNWF.
+07/03/2022 14:05:38 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 14:05:38 - Waiting 120000 for the next amount of requests.
+07/03/2022 14:07:38 - Accessing endpoint for the company profileof the stock IHVPF.
+07/03/2022 14:07:38 - Validating data for symbol IHVPF.
+07/03/2022 14:07:38 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 14:07:38 - Accessing endpoint for the company profileof the stock CELG.RT.
+07/03/2022 14:07:39 - Validating data for symbol CELG.RT.
+07/03/2022 14:07:39 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 14:07:39 - Accessing endpoint for the company profileof the stock LTSF.
+07/03/2022 14:07:39 - Validating data for symbol LTSF.
+07/03/2022 14:07:39 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 14:07:39 - Waiting 120000 for the next amount of requests.
+07/03/2022 14:09:39 - Accessing endpoint for the company profileof the stock FLGB.
+07/03/2022 14:09:39 - Validating data for symbol FLGB.
+07/03/2022 14:09:39 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 14:09:39 - Accessing endpoint for the company profileof the stock CFR.PRB.
+07/03/2022 14:09:40 - Validating data for symbol CFR.PRB.
+07/03/2022 14:09:40 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 14:09:40 - Accessing endpoint for the company profileof the stock SECT.
+07/03/2022 14:09:40 - Validating data for symbol SECT.
+07/03/2022 14:09:40 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 14:09:40 - Waiting 120000 for the next amount of requests.
+07/03/2022 14:11:40 - Accessing endpoint for the company profileof the stock IUSZF.
+07/03/2022 14:11:40 - Validating data for symbol IUSZF.
+07/03/2022 14:11:40 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 14:11:40 - Accessing endpoint for the company profileof the stock RELIW.
+07/03/2022 14:11:41 - Validating data for symbol RELIW.
+07/03/2022 14:11:41 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 14:11:41 - Accessing endpoint for the company profileof the stock LRGF.
+07/03/2022 14:11:41 - Validating data for symbol LRGF.
+07/03/2022 14:11:41 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 14:11:41 - Waiting 120000 for the next amount of requests.
+07/03/2022 14:13:41 - Accessing endpoint for the company profileof the stock JPXN.
+07/03/2022 14:13:41 - Validating data for symbol JPXN.
+07/03/2022 14:13:42 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 14:13:42 - Accessing endpoint for the company profileof the stock ESUS.
+07/03/2022 14:13:42 - Validating data for symbol ESUS.
+07/03/2022 14:13:42 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 14:13:42 - Accessing endpoint for the company profileof the stock EUCRW.
+07/03/2022 14:13:42 - Validating data for symbol EUCRW.
+07/03/2022 14:13:42 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 14:13:42 - Waiting 120000 for the next amount of requests.
+07/03/2022 14:15:42 - Accessing endpoint for the company profileof the stock HTAQ.WS.
+07/03/2022 14:15:43 - Validating data for symbol HTAQ.WS.
+07/03/2022 14:15:43 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 14:15:43 - Accessing endpoint for the company profileof the stock AZBJ.
+07/03/2022 14:15:43 - Validating data for symbol AZBJ.
+07/03/2022 14:15:43 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 14:15:43 - Accessing endpoint for the company profileof the stock TLTE.
+07/03/2022 14:15:43 - Validating data for symbol TLTE.
+07/03/2022 14:15:43 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 14:15:43 - Waiting 120000 for the next amount of requests.
+07/03/2022 14:17:43 - Accessing endpoint for the company profileof the stock CAPD.
+07/03/2022 14:17:44 - Validating data for symbol CAPD.
+07/03/2022 14:17:44 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 14:17:44 - Accessing endpoint for the company profileof the stock SPSB.
+07/03/2022 14:17:44 - Validating data for symbol SPSB.
+07/03/2022 14:17:44 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 14:17:44 - Accessing endpoint for the company profileof the stock UIRAF.
+07/03/2022 14:17:44 - Validating data for symbol UIRAF.
+07/03/2022 14:17:44 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 14:17:44 - Waiting 120000 for the next amount of requests.
+07/03/2022 14:19:44 - Accessing endpoint for the company profileof the stock WEIX.
+07/03/2022 14:19:45 - Validating data for symbol WEIX.
+07/03/2022 14:19:45 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 14:19:45 - Accessing endpoint for the company profileof the stock CWB.
+07/03/2022 14:19:45 - Validating data for symbol CWB.
+07/03/2022 14:19:45 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 14:19:45 - Accessing endpoint for the company profileof the stock SCDL.
+07/03/2022 14:19:45 - Validating data for symbol SCDL.
+07/03/2022 14:19:45 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 14:19:45 - Waiting 120000 for the next amount of requests.
+07/03/2022 14:21:46 - Accessing endpoint for the company profileof the stock LSAF.
+07/03/2022 14:21:47 - Validating data for symbol LSAF.
+07/03/2022 14:21:47 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 14:21:47 - Accessing endpoint for the company profileof the stock TECTP.
+07/03/2022 14:21:47 - Validating data for symbol TECTP.
+07/03/2022 14:21:47 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 14:21:47 - Accessing endpoint for the company profileof the stock IHPSF.
+07/03/2022 14:21:47 - Validating data for symbol IHPSF.
+07/03/2022 14:21:47 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 14:21:47 - Waiting 120000 for the next amount of requests.
+07/03/2022 14:23:47 - Accessing endpoint for the company profileof the stock PBUG.
+07/03/2022 14:24:03 - Validating data for symbol PBUG.
+07/03/2022 14:24:03 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 14:24:03 - Accessing endpoint for the company profileof the stock OECPF.
+07/03/2022 14:24:03 - Validating data for symbol OECPF.
+07/03/2022 14:24:03 - Inserting company profile for the SymbolID 624.
+07/03/2022 14:24:23 - Updating HasCompanyProfile for the SymbolID 624.
+07/03/2022 14:24:23 - Accessing endpoint for the company profileof the stock HBGRY.
+07/03/2022 14:24:23 - Validating data for symbol HBGRY.
+07/03/2022 14:24:23 - Inserting company profile for the SymbolID 625.
+07/03/2022 14:24:26 - Updating HasCompanyProfile for the SymbolID 625.
+07/03/2022 14:24:26 - Waiting 120000 for the next amount of requests.
+07/03/2022 14:26:26 - Accessing endpoint for the company profileof the stock BLUU.
+07/03/2022 14:26:26 - Validating data for symbol BLUU.
+07/03/2022 14:26:26 - Inserting company profile for the SymbolID 626.
+07/03/2022 14:26:26 - Updating HasCompanyProfile for the SymbolID 626.
+07/03/2022 14:26:26 - Accessing endpoint for the company profileof the stock EXCC.
+07/03/2022 14:26:27 - Validating data for symbol EXCC.
+07/03/2022 14:26:27 - Inserting company profile for the SymbolID 627.
+07/03/2022 14:26:27 - Updating HasCompanyProfile for the SymbolID 627.
+07/03/2022 14:26:27 - Accessing endpoint for the company profileof the stock HEOFF.
+07/03/2022 14:26:27 - Validating data for symbol HEOFF.
+07/03/2022 14:26:27 - Inserting company profile for the SymbolID 628.
+07/03/2022 14:26:27 - Updating HasCompanyProfile for the SymbolID 628.
+07/03/2022 14:26:27 - Waiting 120000 for the next amount of requests.
+07/03/2022 14:28:27 - Accessing endpoint for the company profileof the stock UP.
+07/03/2022 14:28:27 - Validating data for symbol UP.
+07/03/2022 14:28:27 - Inserting company profile for the SymbolID 629.
+07/03/2022 14:28:27 - Updating HasCompanyProfile for the SymbolID 629.
+07/03/2022 14:28:27 - Accessing endpoint for the company profileof the stock ASLM.
+07/03/2022 14:28:28 - Validating data for symbol ASLM.
+07/03/2022 14:28:28 - Inserting company profile for the SymbolID 630.
+07/03/2022 14:28:28 - Updating HasCompanyProfile for the SymbolID 630.
+07/03/2022 14:28:28 - Accessing endpoint for the company profileof the stock NPKYF.
+07/03/2022 14:28:28 - Validating data for symbol NPKYF.
+07/03/2022 14:28:28 - Inserting company profile for the SymbolID 631.
+07/03/2022 14:28:28 - Updating HasCompanyProfile for the SymbolID 631.
+07/03/2022 14:28:28 - Waiting 120000 for the next amount of requests.
+07/03/2022 14:30:28 - Accessing endpoint for the company profileof the stock STNE.
+07/03/2022 14:30:28 - Validating data for symbol STNE.
+07/03/2022 14:30:29 - Inserting company profile for the SymbolID 632.
+07/03/2022 14:30:29 - Updating HasCompanyProfile for the SymbolID 632.
+07/03/2022 14:30:29 - Accessing endpoint for the company profileof the stock ANXGF.
+07/03/2022 14:30:29 - Validating data for symbol ANXGF.
+07/03/2022 14:30:29 - Inserting company profile for the SymbolID 633.
+07/03/2022 14:30:29 - Updating HasCompanyProfile for the SymbolID 633.
+07/03/2022 14:30:29 - Accessing endpoint for the company profileof the stock OUSM.
+07/03/2022 14:30:29 - Validating data for symbol OUSM.
+07/03/2022 14:30:29 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 14:30:29 - Waiting 120000 for the next amount of requests.
+07/03/2022 14:32:29 - Accessing endpoint for the company profileof the stock NMZ.
+07/03/2022 14:32:29 - Validating data for symbol NMZ.
+07/03/2022 14:32:29 - Inserting company profile for the SymbolID 635.
+07/03/2022 14:32:29 - Updating HasCompanyProfile for the SymbolID 635.
+07/03/2022 14:32:29 - Accessing endpoint for the company profileof the stock CRNCY.
+07/03/2022 14:32:30 - Validating data for symbol CRNCY.
+07/03/2022 14:32:30 - Inserting company profile for the SymbolID 636.
+07/03/2022 14:32:30 - Updating HasCompanyProfile for the SymbolID 636.
+07/03/2022 14:32:30 - Accessing endpoint for the company profileof the stock MLPKF.
+07/03/2022 14:32:30 - Validating data for symbol MLPKF.
+07/03/2022 14:32:30 - Inserting company profile for the SymbolID 637.
+07/03/2022 14:32:30 - Updating HasCompanyProfile for the SymbolID 637.
+07/03/2022 14:32:30 - Waiting 120000 for the next amount of requests.
+07/03/2022 14:34:30 - Accessing endpoint for the company profileof the stock ORRAF.
+07/03/2022 14:34:30 - Validating data for symbol ORRAF.
+07/03/2022 14:34:31 - Inserting company profile for the SymbolID 638.
+07/03/2022 14:34:31 - Updating HasCompanyProfile for the SymbolID 638.
+07/03/2022 14:34:31 - Accessing endpoint for the company profileof the stock TLSNF.
+07/03/2022 14:34:31 - Validating data for symbol TLSNF.
+07/03/2022 14:34:31 - Inserting company profile for the SymbolID 639.
+07/03/2022 14:34:31 - Updating HasCompanyProfile for the SymbolID 639.
+07/03/2022 14:34:31 - Accessing endpoint for the company profileof the stock CWH.
+07/03/2022 14:34:31 - Validating data for symbol CWH.
+07/03/2022 14:34:31 - Inserting company profile for the SymbolID 640.
+07/03/2022 14:34:31 - Updating HasCompanyProfile for the SymbolID 640.
+07/03/2022 14:34:31 - Waiting 120000 for the next amount of requests.
+07/03/2022 14:36:31 - Accessing endpoint for the company profileof the stock ENGPF.
+07/03/2022 14:36:32 - Validating data for symbol ENGPF.
+07/03/2022 14:36:32 - Inserting company profile for the SymbolID 641.
+07/03/2022 14:36:32 - Updating HasCompanyProfile for the SymbolID 641.
+07/03/2022 14:36:32 - Accessing endpoint for the company profileof the stock SJ.
+07/03/2022 14:36:32 - Validating data for symbol SJ.
+07/03/2022 14:36:32 - Inserting company profile for the SymbolID 642.
+07/03/2022 14:36:32 - Updating HasCompanyProfile for the SymbolID 642.
+07/03/2022 14:36:32 - Accessing endpoint for the company profileof the stock MXGFF.
+07/03/2022 14:36:32 - Validating data for symbol MXGFF.
+07/03/2022 14:36:32 - Inserting company profile for the SymbolID 643.
+07/03/2022 14:36:32 - Updating HasCompanyProfile for the SymbolID 643.
+07/03/2022 14:36:32 - Waiting 120000 for the next amount of requests.
+07/03/2022 14:38:32 - Accessing endpoint for the company profileof the stock SPRS.
+07/03/2022 14:38:33 - Validating data for symbol SPRS.
+07/03/2022 14:38:33 - Inserting company profile for the SymbolID 644.
+07/03/2022 14:38:33 - Updating HasCompanyProfile for the SymbolID 644.
+07/03/2022 14:38:33 - Accessing endpoint for the company profileof the stock USBF.
+07/03/2022 14:38:33 - Validating data for symbol USBF.
+07/03/2022 14:38:33 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 14:38:33 - Accessing endpoint for the company profileof the stock ATVC.
+07/03/2022 14:38:33 - Validating data for symbol ATVC.
+07/03/2022 14:38:33 - Inserting company profile for the SymbolID 646.
+07/03/2022 14:38:33 - Updating HasCompanyProfile for the SymbolID 646.
+07/03/2022 14:38:33 - Waiting 120000 for the next amount of requests.
+07/03/2022 14:40:33 - Accessing endpoint for the company profileof the stock OSSDF.
+07/03/2022 14:40:34 - Validating data for symbol OSSDF.
+07/03/2022 14:40:34 - Inserting company profile for the SymbolID 647.
+07/03/2022 14:40:34 - Updating HasCompanyProfile for the SymbolID 647.
+07/03/2022 14:40:34 - Accessing endpoint for the company profileof the stock RAMMW.
+07/03/2022 14:40:34 - Validating data for symbol RAMMW.
+07/03/2022 14:40:34 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 14:40:34 - Accessing endpoint for the company profileof the stock AOZOY.
+07/03/2022 14:40:34 - Validating data for symbol AOZOY.
+07/03/2022 14:40:34 - Inserting company profile for the SymbolID 649.
+07/03/2022 14:40:34 - Updating HasCompanyProfile for the SymbolID 649.
+07/03/2022 14:40:34 - Waiting 120000 for the next amount of requests.
+07/03/2022 14:42:34 - Accessing endpoint for the company profileof the stock LANDM.
+07/03/2022 14:42:35 - Validating data for symbol LANDM.
+07/03/2022 14:42:35 - Inserting company profile for the SymbolID 650.
+07/03/2022 14:42:35 - Updating HasCompanyProfile for the SymbolID 650.
+07/03/2022 14:42:35 - Accessing endpoint for the company profileof the stock IGEB.
+07/03/2022 14:42:35 - Validating data for symbol IGEB.
+07/03/2022 14:42:35 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 14:42:35 - Accessing endpoint for the company profileof the stock POTVF.
+07/03/2022 14:42:35 - Validating data for symbol POTVF.
+07/03/2022 14:42:35 - Inserting company profile for the SymbolID 652.
+07/03/2022 14:42:35 - Updating HasCompanyProfile for the SymbolID 652.
+07/03/2022 14:42:35 - Waiting 120000 for the next amount of requests.
+07/03/2022 14:44:35 - Accessing endpoint for the company profileof the stock GLVHF.
+07/03/2022 14:44:36 - Validating data for symbol GLVHF.
+07/03/2022 14:44:36 - Inserting company profile for the SymbolID 653.
+07/03/2022 14:44:36 - Updating HasCompanyProfile for the SymbolID 653.
+07/03/2022 14:44:36 - Accessing endpoint for the company profileof the stock RELX.
+07/03/2022 14:44:36 - Validating data for symbol RELX.
+07/03/2022 14:44:36 - Inserting company profile for the SymbolID 654.
+07/03/2022 14:44:36 - Updating HasCompanyProfile for the SymbolID 654.
+07/03/2022 14:44:36 - Accessing endpoint for the company profileof the stock NEM.
+07/03/2022 14:44:36 - Validating data for symbol NEM.
+07/03/2022 14:44:36 - Inserting company profile for the SymbolID 655.
+07/03/2022 14:44:36 - Updating HasCompanyProfile for the SymbolID 655.
+07/03/2022 14:44:36 - Waiting 120000 for the next amount of requests.
+07/03/2022 14:46:36 - Accessing endpoint for the company profileof the stock SASDF.
+07/03/2022 14:46:37 - Validating data for symbol SASDF.
+07/03/2022 14:46:37 - Inserting company profile for the SymbolID 656.
+07/03/2022 14:46:37 - Updating HasCompanyProfile for the SymbolID 656.
+07/03/2022 14:46:37 - Accessing endpoint for the company profileof the stock ASX.
+07/03/2022 14:46:37 - Validating data for symbol ASX.
+07/03/2022 14:46:37 - Inserting company profile for the SymbolID 657.
+07/03/2022 14:46:37 - Updating HasCompanyProfile for the SymbolID 657.
+07/03/2022 14:46:37 - Accessing endpoint for the company profileof the stock MOAT.
+07/03/2022 14:46:37 - Validating data for symbol MOAT.
+07/03/2022 14:46:37 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 14:46:37 - Waiting 120000 for the next amount of requests.
+07/03/2022 14:48:37 - Accessing endpoint for the company profileof the stock LCOMF.
+07/03/2022 14:48:38 - Validating data for symbol LCOMF.
+07/03/2022 14:48:38 - Inserting company profile for the SymbolID 659.
+07/03/2022 14:48:38 - Updating HasCompanyProfile for the SymbolID 659.
+07/03/2022 14:48:38 - Accessing endpoint for the company profileof the stock SGBLY.
+07/03/2022 14:48:38 - Validating data for symbol SGBLY.
+07/03/2022 14:48:39 - Inserting company profile for the SymbolID 660.
+07/03/2022 14:48:39 - Updating HasCompanyProfile for the SymbolID 660.
+07/03/2022 14:48:39 - Accessing endpoint for the company profileof the stock SPBBF.
+07/03/2022 14:48:39 - Validating data for symbol SPBBF.
+07/03/2022 14:48:39 - Inserting company profile for the SymbolID 661.
+07/03/2022 14:48:39 - Updating HasCompanyProfile for the SymbolID 661.
+07/03/2022 14:48:39 - Waiting 120000 for the next amount of requests.
+07/03/2022 14:50:39 - Accessing endpoint for the company profileof the stock XSHLF.
+07/03/2022 14:50:39 - Validating data for symbol XSHLF.
+07/03/2022 14:50:39 - Inserting company profile for the SymbolID 662.
+07/03/2022 14:50:39 - Updating HasCompanyProfile for the SymbolID 662.
+07/03/2022 14:50:39 - Accessing endpoint for the company profileof the stock FFIV.
+07/03/2022 14:50:40 - Validating data for symbol FFIV.
+07/03/2022 14:50:40 - Inserting company profile for the SymbolID 663.
+07/03/2022 14:50:40 - Updating HasCompanyProfile for the SymbolID 663.
+07/03/2022 14:50:40 - Accessing endpoint for the company profileof the stock VWOB.
+07/03/2022 14:50:40 - Validating data for symbol VWOB.
+07/03/2022 14:50:40 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 14:50:40 - Waiting 120000 for the next amount of requests.

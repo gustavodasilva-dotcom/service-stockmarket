@@ -82,19 +82,20 @@ SELECT * FROM StockTypes WHERE Description = 'Preference' AND Active = 1 AND Del
 DROP TABLE IF EXISTS Symbols
 CREATE TABLE Symbols
 (
-	 ID				INT				NOT NULL	IDENTITY(1, 1)
-	,Description	VARCHAR(200)	NOT NULL
-	,DisplaySymbol	VARCHAR(10)		NOT NULL
-	,Figi			VARCHAR(100)
-	,Isin			VARCHAR(100)
-	,Mic			VARCHAR(50)
-	,ShareClassFIGI	VARCHAR(100)
-	,Symbol			VARCHAR(50)		NOT NULL
-	,Symbol2		VARCHAR(50)
-	,StokeTypeID	INT
-	,Active			BIT				NOT NULL	DEFAULT 1
-	,Deleted		BIT				NOT NULL	DEFAULT 0
-	,Date			DATETIME		DEFAULT		GETDATE()
+	 ID					INT				NOT NULL	IDENTITY(1, 1)
+	,Description		VARCHAR(200)	NOT NULL
+	,DisplaySymbol		VARCHAR(10)		NOT NULL
+	,Figi				VARCHAR(100)
+	,Isin				VARCHAR(100)
+	,Mic				VARCHAR(50)
+	,ShareClassFIGI		VARCHAR(100)
+	,Symbol				VARCHAR(50)		NOT NULL
+	,Symbol2			VARCHAR(50)
+	,StokeTypeID		INT
+	,Active				BIT				NOT NULL	DEFAULT 1
+	,Deleted			BIT				NOT NULL	DEFAULT 0
+	,Date				DATETIME					DEFAULT	GETDATE()
+	,HasCompanyProfile	BIT							DEFAULT 0
 
 	CONSTRAINT PK_SymbolID PRIMARY KEY(ID)
 

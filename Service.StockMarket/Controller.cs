@@ -28,6 +28,7 @@ namespace Service.StockMarket
         {
             try
             {
+                /*
                 _currencyService.CheckCurrencyCountries();
 
                 var symbols = _symbolService.GetSymbolsInfo();
@@ -38,6 +39,9 @@ namespace Service.StockMarket
 
                     _stockService.CheckStockSymbols();
                 }
+                */
+
+                _stockService.CheckStockSymbols();
             }
             catch (Exception e)
             {
