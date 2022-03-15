@@ -30107,3 +30107,411 @@
 07/03/2022 14:50:40 - Validating data for symbol VWOB.
 07/03/2022 14:50:40 - The Ipo date, from the symbol , doesn't correspond to a date value.
 07/03/2022 14:50:40 - Waiting 120000 for the next amount of requests.
+07/03/2022 14:52:40 - Accessing endpoint for the company profileof the stock CDROW.
+07/03/2022 14:52:40 - Validating data for symbol CDROW.
+07/03/2022 14:52:40 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 14:52:41 - Accessing endpoint for the company profileof the stock EMLP.
+07/03/2022 14:52:41 - Validating data for symbol EMLP.
+07/03/2022 14:52:41 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 14:52:41 - Accessing endpoint for the company profileof the stock ARLSF.
+07/03/2022 14:52:41 - Validating data for symbol ARLSF.
+07/03/2022 14:52:41 - Inserting company profile for the SymbolID 667.
+07/03/2022 14:52:41 - Updating HasCompanyProfile for the SymbolID 667.
+07/03/2022 14:52:41 - Waiting 120000 for the next amount of requests.
+07/03/2022 14:54:41 - Accessing endpoint for the company profileof the stock CHKGF.
+07/03/2022 14:54:41 - Validating data for symbol CHKGF.
+07/03/2022 14:54:41 - Inserting company profile for the SymbolID 668.
+07/03/2022 14:54:41 - Updating HasCompanyProfile for the SymbolID 668.
+07/03/2022 14:54:41 - Accessing endpoint for the company profileof the stock SPTXF.
+07/03/2022 14:54:42 - Validating data for symbol SPTXF.
+07/03/2022 14:54:42 - Inserting company profile for the SymbolID 669.
+07/03/2022 14:54:42 - Updating HasCompanyProfile for the SymbolID 669.
+07/03/2022 14:54:42 - Accessing endpoint for the company profileof the stock BYSD.
+07/03/2022 14:54:42 - Validating data for symbol BYSD.
+07/03/2022 14:54:42 - Inserting company profile for the SymbolID 670.
+07/03/2022 14:54:42 - Updating HasCompanyProfile for the SymbolID 670.
+07/03/2022 14:54:42 - Waiting 120000 for the next amount of requests.
+07/03/2022 14:56:42 - Accessing endpoint for the company profileof the stock CNRFF.
+07/03/2022 14:56:42 - Validating data for symbol CNRFF.
+07/03/2022 14:56:42 - Inserting company profile for the SymbolID 671.
+07/03/2022 14:56:42 - Updating HasCompanyProfile for the SymbolID 671.
+07/03/2022 14:56:42 - Accessing endpoint for the company profileof the stock ABXWF.
+07/03/2022 14:56:43 - Validating data for symbol ABXWF.
+07/03/2022 14:56:43 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 14:56:43 - Accessing endpoint for the company profileof the stock USCUF.
+07/03/2022 14:56:43 - Validating data for symbol USCUF.
+07/03/2022 14:56:43 - Inserting company profile for the SymbolID 673.
+07/03/2022 14:56:43 - Updating HasCompanyProfile for the SymbolID 673.
+07/03/2022 14:56:43 - Waiting 120000 for the next amount of requests.
+07/03/2022 14:58:43 - Accessing endpoint for the company profileof the stock CRTDW.
+07/03/2022 14:58:43 - Validating data for symbol CRTDW.
+07/03/2022 14:58:43 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 14:58:43 - Accessing endpoint for the company profileof the stock ROSMF.
+07/03/2022 14:58:43 - Validating data for symbol ROSMF.
+07/03/2022 14:58:43 - Inserting company profile for the SymbolID 675.
+07/03/2022 14:58:43 - Updating HasCompanyProfile for the SymbolID 675.
+07/03/2022 14:58:43 - Accessing endpoint for the company profileof the stock PCPC.U.
+07/03/2022 14:58:44 - Validating data for symbol PCPC.U.
+07/03/2022 14:58:44 - Inserting company profile for the SymbolID 676.
+07/03/2022 14:58:44 - Updating HasCompanyProfile for the SymbolID 676.
+07/03/2022 14:58:44 - Waiting 120000 for the next amount of requests.
+07/03/2022 15:00:44 - Accessing endpoint for the company profileof the stock CRBU.
+07/03/2022 15:00:44 - Validating data for symbol CRBU.
+07/03/2022 15:00:44 - Inserting company profile for the SymbolID 677.
+07/03/2022 15:00:44 - Updating HasCompanyProfile for the SymbolID 677.
+07/03/2022 15:00:44 - Accessing endpoint for the company profileof the stock CMCTP.
+07/03/2022 15:00:45 - Validating data for symbol CMCTP.
+07/03/2022 15:00:45 - Inserting company profile for the SymbolID 678.
+07/03/2022 15:00:45 - Updating HasCompanyProfile for the SymbolID 678.
+07/03/2022 15:00:45 - Accessing endpoint for the company profileof the stock NWCN.
+07/03/2022 15:00:45 - Validating data for symbol NWCN.
+07/03/2022 15:00:45 - Inserting company profile for the SymbolID 679.
+07/03/2022 15:00:45 - Updating HasCompanyProfile for the SymbolID 679.
+07/03/2022 15:00:45 - Waiting 120000 for the next amount of requests.
+07/03/2022 15:02:45 - Accessing endpoint for the company profileof the stock TKLF.
+07/03/2022 15:02:45 - Validating data for symbol TKLF.
+07/03/2022 15:02:45 - Inserting company profile for the SymbolID 680.
+07/03/2022 15:02:45 - Updating HasCompanyProfile for the SymbolID 680.
+07/03/2022 15:02:45 - Accessing endpoint for the company profileof the stock SMAPW.
+07/03/2022 15:02:46 - Validating data for symbol SMAPW.
+07/03/2022 15:02:46 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 15:02:46 - Accessing endpoint for the company profileof the stock UCPLF.
+07/03/2022 15:02:46 - Validating data for symbol UCPLF.
+07/03/2022 15:02:46 - Inserting company profile for the SymbolID 682.
+07/03/2022 15:02:46 - Updating HasCompanyProfile for the SymbolID 682.
+07/03/2022 15:02:46 - Waiting 120000 for the next amount of requests.
+07/03/2022 15:04:46 - Accessing endpoint for the company profileof the stock FMIV.
+07/03/2022 15:04:46 - Validating data for symbol FMIV.
+07/03/2022 15:04:46 - Inserting company profile for the SymbolID 683.
+07/03/2022 15:04:46 - Updating HasCompanyProfile for the SymbolID 683.
+07/03/2022 15:04:46 - Accessing endpoint for the company profileof the stock SSBI.
+07/03/2022 15:04:47 - Validating data for symbol SSBI.
+07/03/2022 15:04:47 - Inserting company profile for the SymbolID 684.
+07/03/2022 15:04:47 - Updating HasCompanyProfile for the SymbolID 684.
+07/03/2022 15:04:47 - Accessing endpoint for the company profileof the stock DNLMY.
+07/03/2022 15:04:47 - Validating data for symbol DNLMY.
+07/03/2022 15:04:47 - Inserting company profile for the SymbolID 685.
+07/03/2022 15:04:47 - Updating HasCompanyProfile for the SymbolID 685.
+07/03/2022 15:04:47 - Waiting 120000 for the next amount of requests.
+07/03/2022 15:06:47 - Accessing endpoint for the company profileof the stock BWTL.
+07/03/2022 15:06:50 - Validating data for symbol BWTL.
+07/03/2022 15:06:50 - Inserting company profile for the SymbolID 686.
+07/03/2022 15:06:50 - Updating HasCompanyProfile for the SymbolID 686.
+07/03/2022 15:06:50 - Accessing endpoint for the company profileof the stock ELVAF.
+07/03/2022 15:06:51 - Validating data for symbol ELVAF.
+07/03/2022 15:06:51 - Inserting company profile for the SymbolID 687.
+07/03/2022 15:06:51 - Updating HasCompanyProfile for the SymbolID 687.
+07/03/2022 15:06:51 - Accessing endpoint for the company profileof the stock CHBJF.
+07/03/2022 15:06:51 - Validating data for symbol CHBJF.
+07/03/2022 15:06:51 - Inserting company profile for the SymbolID 688.
+07/03/2022 15:06:51 - Updating HasCompanyProfile for the SymbolID 688.
+07/03/2022 15:06:51 - Waiting 120000 for the next amount of requests.
+07/03/2022 15:08:51 - Accessing endpoint for the company profileof the stock MDGL.
+07/03/2022 15:08:51 - Validating data for symbol MDGL.
+07/03/2022 15:08:51 - Inserting company profile for the SymbolID 689.
+07/03/2022 15:08:51 - Updating HasCompanyProfile for the SymbolID 689.
+07/03/2022 15:08:51 - Accessing endpoint for the company profileof the stock BXMT.
+07/03/2022 15:08:51 - Validating data for symbol BXMT.
+07/03/2022 15:08:51 - Inserting company profile for the SymbolID 690.
+07/03/2022 15:08:51 - Updating HasCompanyProfile for the SymbolID 690.
+07/03/2022 15:08:51 - Accessing endpoint for the company profileof the stock ELRRF.
+07/03/2022 15:08:52 - Validating data for symbol ELRRF.
+07/03/2022 15:08:52 - Inserting company profile for the SymbolID 691.
+07/03/2022 15:08:52 - Updating HasCompanyProfile for the SymbolID 691.
+07/03/2022 15:08:52 - Waiting 120000 for the next amount of requests.
+07/03/2022 15:10:52 - Accessing endpoint for the company profileof the stock KELYB.
+07/03/2022 15:10:52 - Validating data for symbol KELYB.
+07/03/2022 15:10:52 - Inserting company profile for the SymbolID 692.
+07/03/2022 15:10:52 - Updating HasCompanyProfile for the SymbolID 692.
+07/03/2022 15:10:52 - Accessing endpoint for the company profileof the stock ADKIL.
+07/03/2022 15:10:52 - Validating data for symbol ADKIL.
+07/03/2022 15:10:52 - Inserting company profile for the SymbolID 693.
+07/03/2022 15:10:52 - Updating HasCompanyProfile for the SymbolID 693.
+07/03/2022 15:10:52 - Accessing endpoint for the company profileof the stock HPP.
+07/03/2022 15:10:53 - Validating data for symbol HPP.
+07/03/2022 15:10:53 - Inserting company profile for the SymbolID 694.
+07/03/2022 15:10:53 - Updating HasCompanyProfile for the SymbolID 694.
+07/03/2022 15:10:53 - Waiting 120000 for the next amount of requests.
+07/03/2022 15:12:53 - Accessing endpoint for the company profileof the stock XCPL.
+07/03/2022 15:12:53 - Validating data for symbol XCPL.
+07/03/2022 15:12:53 - Inserting company profile for the SymbolID 695.
+07/03/2022 15:12:53 - Updating HasCompanyProfile for the SymbolID 695.
+07/03/2022 15:12:53 - Accessing endpoint for the company profileof the stock IBAL.
+07/03/2022 15:12:54 - Validating data for symbol IBAL.
+07/03/2022 15:12:54 - Inserting company profile for the SymbolID 696.
+07/03/2022 15:12:54 - Updating HasCompanyProfile for the SymbolID 696.
+07/03/2022 15:12:54 - Accessing endpoint for the company profileof the stock TRRVF.
+07/03/2022 15:12:54 - Validating data for symbol TRRVF.
+07/03/2022 15:12:54 - Inserting company profile for the SymbolID 697.
+07/03/2022 15:12:54 - Updating HasCompanyProfile for the SymbolID 697.
+07/03/2022 15:12:54 - Waiting 120000 for the next amount of requests.
+07/03/2022 15:14:54 - Accessing endpoint for the company profileof the stock DMGGF.
+07/03/2022 15:14:54 - Validating data for symbol DMGGF.
+07/03/2022 15:14:54 - Inserting company profile for the SymbolID 698.
+07/03/2022 15:14:54 - Updating HasCompanyProfile for the SymbolID 698.
+07/03/2022 15:14:54 - Accessing endpoint for the company profileof the stock SSTT.
+07/03/2022 15:14:55 - Validating data for symbol SSTT.
+07/03/2022 15:14:55 - Inserting company profile for the SymbolID 699.
+07/03/2022 15:14:55 - Updating HasCompanyProfile for the SymbolID 699.
+07/03/2022 15:14:55 - Accessing endpoint for the company profileof the stock PAPR.
+07/03/2022 15:14:55 - Validating data for symbol PAPR.
+07/03/2022 15:14:55 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 15:14:55 - Waiting 120000 for the next amount of requests.
+07/03/2022 15:16:55 - Accessing endpoint for the company profileof the stock MCAE.
+07/03/2022 15:16:56 - Validating data for symbol MCAE.
+07/03/2022 15:16:56 - Inserting company profile for the SymbolID 701.
+07/03/2022 15:16:56 - Updating HasCompanyProfile for the SymbolID 701.
+07/03/2022 15:16:56 - Accessing endpoint for the company profileof the stock CALA.
+07/03/2022 15:16:56 - Validating data for symbol CALA.
+07/03/2022 15:16:56 - Inserting company profile for the SymbolID 702.
+07/03/2022 15:16:56 - Updating HasCompanyProfile for the SymbolID 702.
+07/03/2022 15:16:56 - Accessing endpoint for the company profileof the stock CFRUY.
+07/03/2022 15:16:56 - Validating data for symbol CFRUY.
+07/03/2022 15:16:56 - Inserting company profile for the SymbolID 703.
+07/03/2022 15:16:56 - Updating HasCompanyProfile for the SymbolID 703.
+07/03/2022 15:16:56 - Waiting 120000 for the next amount of requests.
+07/03/2022 15:18:57 - Accessing endpoint for the company profileof the stock NAVVF.
+07/03/2022 15:18:57 - Validating data for symbol NAVVF.
+07/03/2022 15:18:57 - Inserting company profile for the SymbolID 704.
+07/03/2022 15:18:57 - Updating HasCompanyProfile for the SymbolID 704.
+07/03/2022 15:18:57 - Accessing endpoint for the company profileof the stock CDR.PRB.
+07/03/2022 15:18:57 - Validating data for symbol CDR.PRB.
+07/03/2022 15:18:57 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 15:18:57 - Accessing endpoint for the company profileof the stock PRPPF.
+07/03/2022 15:18:57 - Validating data for symbol PRPPF.
+07/03/2022 15:18:58 - Inserting company profile for the SymbolID 706.
+07/03/2022 15:18:58 - Updating HasCompanyProfile for the SymbolID 706.
+07/03/2022 15:18:58 - Waiting 120000 for the next amount of requests.
+07/03/2022 15:20:58 - Accessing endpoint for the company profileof the stock RCKZF.
+07/03/2022 15:20:58 - Validating data for symbol RCKZF.
+07/03/2022 15:20:58 - Inserting company profile for the SymbolID 707.
+07/03/2022 15:20:58 - Updating HasCompanyProfile for the SymbolID 707.
+07/03/2022 15:20:58 - Accessing endpoint for the company profileof the stock FOUNU.
+07/03/2022 15:20:58 - Validating data for symbol FOUNU.
+07/03/2022 15:20:58 - Inserting company profile for the SymbolID 708.
+07/03/2022 15:20:58 - Updating HasCompanyProfile for the SymbolID 708.
+07/03/2022 15:20:58 - Accessing endpoint for the company profileof the stock SABR.
+07/03/2022 15:20:58 - Validating data for symbol SABR.
+07/03/2022 15:20:58 - Inserting company profile for the SymbolID 709.
+07/03/2022 15:20:58 - Updating HasCompanyProfile for the SymbolID 709.
+07/03/2022 15:20:58 - Waiting 120000 for the next amount of requests.
+07/03/2022 15:22:58 - Accessing endpoint for the company profileof the stock HMLP.
+07/03/2022 15:23:09 - Validating data for symbol HMLP.
+07/03/2022 15:23:09 - Inserting company profile for the SymbolID 710.
+07/03/2022 15:23:09 - Updating HasCompanyProfile for the SymbolID 710.
+07/03/2022 15:23:09 - Accessing endpoint for the company profileof the stock EDRY.
+07/03/2022 15:23:10 - Validating data for symbol EDRY.
+07/03/2022 15:23:10 - Inserting company profile for the SymbolID 711.
+07/03/2022 15:23:10 - Updating HasCompanyProfile for the SymbolID 711.
+07/03/2022 15:23:10 - Accessing endpoint for the company profileof the stock LLBO.
+07/03/2022 15:23:10 - Validating data for symbol LLBO.
+07/03/2022 15:23:10 - Inserting company profile for the SymbolID 712.
+07/03/2022 15:23:10 - Updating HasCompanyProfile for the SymbolID 712.
+07/03/2022 15:23:10 - Waiting 120000 for the next amount of requests.
+07/03/2022 15:25:10 - Accessing endpoint for the company profileof the stock GPRE.
+07/03/2022 15:25:11 - Validating data for symbol GPRE.
+07/03/2022 15:25:11 - Inserting company profile for the SymbolID 713.
+07/03/2022 15:25:11 - Updating HasCompanyProfile for the SymbolID 713.
+07/03/2022 15:25:11 - Accessing endpoint for the company profileof the stock CBLNY.
+07/03/2022 15:25:11 - Validating data for symbol CBLNY.
+07/03/2022 15:25:11 - Inserting company profile for the SymbolID 714.
+07/03/2022 15:25:11 - Updating HasCompanyProfile for the SymbolID 714.
+07/03/2022 15:25:11 - Accessing endpoint for the company profileof the stock MEPW.
+07/03/2022 15:25:11 - Validating data for symbol MEPW.
+07/03/2022 15:25:11 - Inserting company profile for the SymbolID 715.
+07/03/2022 15:25:11 - Updating HasCompanyProfile for the SymbolID 715.
+07/03/2022 15:25:11 - Waiting 120000 for the next amount of requests.
+07/03/2022 15:27:11 - Accessing endpoint for the company profileof the stock NTAI.
+07/03/2022 15:27:11 - Validating data for symbol NTAI.
+07/03/2022 15:27:11 - Inserting company profile for the SymbolID 716.
+07/03/2022 15:27:11 - Updating HasCompanyProfile for the SymbolID 716.
+07/03/2022 15:27:11 - Accessing endpoint for the company profileof the stock AMTPQ.
+07/03/2022 15:27:12 - Validating data for symbol AMTPQ.
+07/03/2022 15:27:12 - Inserting company profile for the SymbolID 717.
+07/03/2022 15:27:12 - Updating HasCompanyProfile for the SymbolID 717.
+07/03/2022 15:27:12 - Accessing endpoint for the company profileof the stock MIFF.
+07/03/2022 15:27:12 - Validating data for symbol MIFF.
+07/03/2022 15:27:12 - Inserting company profile for the SymbolID 718.
+07/03/2022 15:27:12 - Updating HasCompanyProfile for the SymbolID 718.
+07/03/2022 15:27:12 - Waiting 120000 for the next amount of requests.
+07/03/2022 15:29:12 - Accessing endpoint for the company profileof the stock RMD.
+07/03/2022 15:29:12 - Validating data for symbol RMD.
+07/03/2022 15:29:13 - Inserting company profile for the SymbolID 719.
+07/03/2022 15:29:13 - Updating HasCompanyProfile for the SymbolID 719.
+07/03/2022 15:29:13 - Accessing endpoint for the company profileof the stock NIFCY.
+07/03/2022 15:29:13 - Validating data for symbol NIFCY.
+07/03/2022 15:29:13 - Inserting company profile for the SymbolID 720.
+07/03/2022 15:29:13 - Updating HasCompanyProfile for the SymbolID 720.
+07/03/2022 15:29:13 - Accessing endpoint for the company profileof the stock FTEK.
+07/03/2022 15:29:13 - Validating data for symbol FTEK.
+07/03/2022 15:29:13 - Inserting company profile for the SymbolID 721.
+07/03/2022 15:29:13 - Updating HasCompanyProfile for the SymbolID 721.
+07/03/2022 15:29:13 - Waiting 120000 for the next amount of requests.
+07/03/2022 15:31:13 - Accessing endpoint for the company profileof the stock AAON.
+07/03/2022 15:31:14 - Validating data for symbol AAON.
+07/03/2022 15:31:14 - Inserting company profile for the SymbolID 722.
+07/03/2022 15:31:14 - Updating HasCompanyProfile for the SymbolID 722.
+07/03/2022 15:31:14 - Accessing endpoint for the company profileof the stock TDBSF.
+07/03/2022 15:31:14 - Validating data for symbol TDBSF.
+07/03/2022 15:31:14 - Inserting company profile for the SymbolID 723.
+07/03/2022 15:31:14 - Updating HasCompanyProfile for the SymbolID 723.
+07/03/2022 15:31:14 - Accessing endpoint for the company profileof the stock CXAC.
+07/03/2022 15:31:14 - Validating data for symbol CXAC.
+07/03/2022 15:31:14 - Inserting company profile for the SymbolID 724.
+07/03/2022 15:31:14 - Updating HasCompanyProfile for the SymbolID 724.
+07/03/2022 15:31:14 - Waiting 120000 for the next amount of requests.
+07/03/2022 15:33:14 - Accessing endpoint for the company profileof the stock DAOO.
+07/03/2022 15:33:15 - Validating data for symbol DAOO.
+07/03/2022 15:33:15 - Inserting company profile for the SymbolID 725.
+07/03/2022 15:33:15 - Updating HasCompanyProfile for the SymbolID 725.
+07/03/2022 15:33:15 - Accessing endpoint for the company profileof the stock GSTN.
+07/03/2022 15:33:15 - Validating data for symbol GSTN.
+07/03/2022 15:33:15 - Inserting company profile for the SymbolID 726.
+07/03/2022 15:33:15 - Updating HasCompanyProfile for the SymbolID 726.
+07/03/2022 15:33:15 - Accessing endpoint for the company profileof the stock KAIKY.
+07/03/2022 15:33:15 - Validating data for symbol KAIKY.
+07/03/2022 15:33:15 - Inserting company profile for the SymbolID 727.
+07/03/2022 15:33:15 - Updating HasCompanyProfile for the SymbolID 727.
+07/03/2022 15:33:15 - Waiting 120000 for the next amount of requests.
+07/03/2022 15:35:15 - Accessing endpoint for the company profileof the stock DGTHF.
+07/03/2022 15:35:16 - Validating data for symbol DGTHF.
+07/03/2022 15:35:16 - Inserting company profile for the SymbolID 728.
+07/03/2022 15:35:16 - Updating HasCompanyProfile for the SymbolID 728.
+07/03/2022 15:35:16 - Accessing endpoint for the company profileof the stock PTLPF.
+07/03/2022 15:35:16 - Validating data for symbol PTLPF.
+07/03/2022 15:35:16 - Inserting company profile for the SymbolID 729.
+07/03/2022 15:35:16 - Updating HasCompanyProfile for the SymbolID 729.
+07/03/2022 15:35:16 - Accessing endpoint for the company profileof the stock CYRP.
+07/03/2022 15:35:16 - Validating data for symbol CYRP.
+07/03/2022 15:35:16 - Inserting company profile for the SymbolID 730.
+07/03/2022 15:35:16 - Updating HasCompanyProfile for the SymbolID 730.
+07/03/2022 15:35:16 - Waiting 120000 for the next amount of requests.
+07/03/2022 15:37:17 - Accessing endpoint for the company profileof the stock FALC.
+07/03/2022 15:37:17 - Validating data for symbol FALC.
+07/03/2022 15:37:17 - Inserting company profile for the SymbolID 731.
+07/03/2022 15:37:17 - Updating HasCompanyProfile for the SymbolID 731.
+07/03/2022 15:37:17 - Accessing endpoint for the company profileof the stock IACC.
+07/03/2022 15:37:17 - Validating data for symbol IACC.
+07/03/2022 15:37:17 - Inserting company profile for the SymbolID 732.
+07/03/2022 15:37:17 - Updating HasCompanyProfile for the SymbolID 732.
+07/03/2022 15:37:17 - Accessing endpoint for the company profileof the stock CBBLF.
+07/03/2022 15:37:17 - Validating data for symbol CBBLF.
+07/03/2022 15:37:17 - Inserting company profile for the SymbolID 733.
+07/03/2022 15:37:17 - Updating HasCompanyProfile for the SymbolID 733.
+07/03/2022 15:37:17 - Waiting 120000 for the next amount of requests.
+07/03/2022 15:39:17 - Accessing endpoint for the company profileof the stock MDBBF.
+07/03/2022 15:39:18 - Validating data for symbol MDBBF.
+07/03/2022 15:39:18 - Inserting company profile for the SymbolID 734.
+07/03/2022 15:39:18 - Updating HasCompanyProfile for the SymbolID 734.
+07/03/2022 15:39:18 - Accessing endpoint for the company profileof the stock SKYH.
+07/03/2022 15:39:18 - Validating data for symbol SKYH.
+07/03/2022 15:39:18 - Inserting company profile for the SymbolID 735.
+07/03/2022 15:39:18 - Updating HasCompanyProfile for the SymbolID 735.
+07/03/2022 15:39:18 - Accessing endpoint for the company profileof the stock LGAH.
+07/03/2022 15:39:18 - Validating data for symbol LGAH.
+07/03/2022 15:39:18 - Inserting company profile for the SymbolID 736.
+07/03/2022 15:39:18 - Updating HasCompanyProfile for the SymbolID 736.
+07/03/2022 15:39:18 - Waiting 120000 for the next amount of requests.
+07/03/2022 15:41:18 - Accessing endpoint for the company profileof the stock PNI.
+07/03/2022 15:41:19 - Validating data for symbol PNI.
+07/03/2022 15:41:19 - Inserting company profile for the SymbolID 737.
+07/03/2022 15:41:19 - Updating HasCompanyProfile for the SymbolID 737.
+07/03/2022 15:41:19 - Accessing endpoint for the company profileof the stock UBNSF.
+07/03/2022 15:41:19 - Validating data for symbol UBNSF.
+07/03/2022 15:41:19 - Inserting company profile for the SymbolID 738.
+07/03/2022 15:41:19 - Updating HasCompanyProfile for the SymbolID 738.
+07/03/2022 15:41:19 - Accessing endpoint for the company profileof the stock TOTDF.
+07/03/2022 15:41:19 - Validating data for symbol TOTDF.
+07/03/2022 15:41:19 - Inserting company profile for the SymbolID 739.
+07/03/2022 15:41:19 - Updating HasCompanyProfile for the SymbolID 739.
+07/03/2022 15:41:19 - Waiting 120000 for the next amount of requests.
+07/03/2022 15:43:19 - Accessing endpoint for the company profileof the stock GTXO.
+07/03/2022 15:43:20 - Validating data for symbol GTXO.
+07/03/2022 15:43:20 - Inserting company profile for the SymbolID 740.
+07/03/2022 15:43:20 - Updating HasCompanyProfile for the SymbolID 740.
+07/03/2022 15:43:20 - Accessing endpoint for the company profileof the stock AQCP.
+07/03/2022 15:43:20 - Validating data for symbol AQCP.
+07/03/2022 15:43:20 - Inserting company profile for the SymbolID 741.
+07/03/2022 15:43:20 - Updating HasCompanyProfile for the SymbolID 741.
+07/03/2022 15:43:20 - Accessing endpoint for the company profileof the stock CTRVP.
+07/03/2022 15:43:20 - Validating data for symbol CTRVP.
+07/03/2022 15:43:20 - Inserting company profile for the SymbolID 742.
+07/03/2022 15:43:20 - Updating HasCompanyProfile for the SymbolID 742.
+07/03/2022 15:43:20 - Waiting 120000 for the next amount of requests.
+07/03/2022 15:45:20 - Accessing endpoint for the company profileof the stock HTBI.
+07/03/2022 15:45:21 - Validating data for symbol HTBI.
+07/03/2022 15:45:21 - Inserting company profile for the SymbolID 743.
+07/03/2022 15:45:21 - Updating HasCompanyProfile for the SymbolID 743.
+07/03/2022 15:45:21 - Accessing endpoint for the company profileof the stock WDIV.
+07/03/2022 15:45:21 - Validating data for symbol WDIV.
+07/03/2022 15:45:21 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 15:45:21 - Accessing endpoint for the company profileof the stock DMCD.
+07/03/2022 15:45:21 - Validating data for symbol DMCD.
+07/03/2022 15:45:21 - Inserting company profile for the SymbolID 745.
+07/03/2022 15:45:21 - Updating HasCompanyProfile for the SymbolID 745.
+07/03/2022 15:45:21 - Waiting 120000 for the next amount of requests.
+07/03/2022 15:47:21 - Accessing endpoint for the company profileof the stock PDGNF.
+07/03/2022 15:47:22 - Validating data for symbol PDGNF.
+07/03/2022 15:47:22 - Inserting company profile for the SymbolID 746.
+07/03/2022 15:47:22 - Updating HasCompanyProfile for the SymbolID 746.
+07/03/2022 15:47:22 - Accessing endpoint for the company profileof the stock NSTB.U.
+07/03/2022 15:47:22 - Validating data for symbol NSTB.U.
+07/03/2022 15:47:22 - Inserting company profile for the SymbolID 747.
+07/03/2022 15:47:22 - Updating HasCompanyProfile for the SymbolID 747.
+07/03/2022 15:47:22 - Accessing endpoint for the company profileof the stock EFAD.
+07/03/2022 15:47:22 - Validating data for symbol EFAD.
+07/03/2022 15:47:22 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 15:47:22 - Waiting 120000 for the next amount of requests.
+07/03/2022 15:49:22 - Accessing endpoint for the company profileof the stock DBMBF.
+07/03/2022 15:49:22 - Validating data for symbol DBMBF.
+07/03/2022 15:49:22 - Inserting company profile for the SymbolID 749.
+07/03/2022 15:49:22 - Updating HasCompanyProfile for the SymbolID 749.
+07/03/2022 15:49:22 - Accessing endpoint for the company profileof the stock PSXP.
+07/03/2022 15:49:23 - Validating data for symbol PSXP.
+07/03/2022 15:49:23 - Inserting company profile for the SymbolID 750.
+07/03/2022 15:49:23 - Updating HasCompanyProfile for the SymbolID 750.
+07/03/2022 15:49:23 - Accessing endpoint for the company profileof the stock KBCSF.
+07/03/2022 15:49:23 - Validating data for symbol KBCSF.
+07/03/2022 15:49:23 - Inserting company profile for the SymbolID 751.
+07/03/2022 15:49:23 - Updating HasCompanyProfile for the SymbolID 751.
+07/03/2022 15:49:23 - Waiting 120000 for the next amount of requests.
+07/03/2022 15:51:23 - Accessing endpoint for the company profileof the stock SGAMY.
+07/03/2022 15:51:23 - Validating data for symbol SGAMY.
+07/03/2022 15:51:23 - Inserting company profile for the SymbolID 752.
+07/03/2022 15:51:23 - Updating HasCompanyProfile for the SymbolID 752.
+07/03/2022 15:51:23 - Accessing endpoint for the company profileof the stock FATLF.
+07/03/2022 15:51:23 - Validating data for symbol FATLF.
+07/03/2022 15:51:23 - Inserting company profile for the SymbolID 753.
+07/03/2022 15:51:23 - Updating HasCompanyProfile for the SymbolID 753.
+07/03/2022 15:51:23 - Accessing endpoint for the company profileof the stock KBYPF.
+07/03/2022 15:51:24 - Validating data for symbol KBYPF.
+07/03/2022 15:51:24 - Inserting company profile for the SymbolID 754.
+07/03/2022 15:51:24 - Updating HasCompanyProfile for the SymbolID 754.
+07/03/2022 15:51:24 - Waiting 120000 for the next amount of requests.
+07/03/2022 15:53:24 - Accessing endpoint for the company profileof the stock LIDM.
+07/03/2022 15:53:24 - Validating data for symbol LIDM.
+07/03/2022 15:53:24 - Inserting company profile for the SymbolID 755.
+07/03/2022 15:53:24 - Updating HasCompanyProfile for the SymbolID 755.
+07/03/2022 15:53:24 - Accessing endpoint for the company profileof the stock GSBYP.
+07/03/2022 15:53:25 - Validating data for symbol GSBYP.
+07/03/2022 15:53:25 - Inserting company profile for the SymbolID 756.
+07/03/2022 15:53:25 - Updating HasCompanyProfile for the SymbolID 756.
+07/03/2022 15:53:25 - Accessing endpoint for the company profileof the stock RSASF.
+07/03/2022 15:53:25 - Validating data for symbol RSASF.
+07/03/2022 15:53:25 - Inserting company profile for the SymbolID 757.
+07/03/2022 15:53:25 - Updating HasCompanyProfile for the SymbolID 757.
+07/03/2022 15:53:25 - Waiting 120000 for the next amount of requests.
+07/03/2022 15:55:25 - Accessing endpoint for the company profileof the stock WSSTF.
+07/03/2022 15:55:25 - Validating data for symbol WSSTF.
+07/03/2022 15:55:25 - Inserting company profile for the SymbolID 758.
+07/03/2022 15:55:25 - Updating HasCompanyProfile for the SymbolID 758.
+07/03/2022 15:55:25 - Accessing endpoint for the company profileof the stock MDDVF.
+07/03/2022 15:55:25 - Validating data for symbol MDDVF.
+07/03/2022 15:55:26 - Inserting company profile for the SymbolID 759.
+07/03/2022 15:55:26 - Updating HasCompanyProfile for the SymbolID 759.
+07/03/2022 15:55:26 - Accessing endpoint for the company profileof the stock JANZ.
+07/03/2022 15:55:26 - Validating data for symbol JANZ.
+07/03/2022 15:55:26 - The Ipo date, from the symbol , doesn't correspond to a date value.
+07/03/2022 15:55:26 - Waiting 120000 for the next amount of requests.
+07/03/2022 16:13:32 - Accessing endpoint for the company profileof the stock MABHF.
+07/03/2022 16:18:52 - Impossível conectar-se ao servidor remoto

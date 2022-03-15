@@ -28,18 +28,12 @@ namespace Service.StockMarket
         {
             try
             {
-                /*
                 _currencyService.CheckCurrencyCountries();
 
                 var symbols = _symbolService.GetSymbolsInfo();
 
                 if (!symbols.Equals(null))
-                {
                     _symbolService.CheckSymbols(symbols);
-
-                    _stockService.CheckStockSymbols();
-                }
-                */
 
                 _stockService.CheckStockSymbols();
             }
